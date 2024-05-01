@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Spotify-Clone/static/css/main.2b9fd5b3.css",
+    "main.js": "/Spotify-Clone/static/js/main.27341acf.js",
+    "static/media/Spotify-symbol.jpg": "/Spotify-Clone/static/media/Spotify-symbol.8440f92f27e3446b20db.jpg",
+    "index.html": "/Spotify-Clone/index.html",
+    "main.2b9fd5b3.css.map": "/Spotify-Clone/static/css/main.2b9fd5b3.css.map",
+    "main.27341acf.js.map": "/Spotify-Clone/static/js/main.27341acf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b9fd5b3.css",
+    "static/js/main.27341acf.js"
+  ]
+}
