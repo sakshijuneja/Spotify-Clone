@@ -1,0 +1,218 @@
+.Side-nav{
+    width: 100%;
+    /* height: 100%; */
+    height: calc(100% - 102px);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+        
+}
+.Side-nav-container{
+    background-color: #292929;
+    border-radius: 0.6rem;
+    padding: 8px 12px; 
+    height: 24%;
+}
+
+.Side-nav-list{
+    display: flex;
+    flex-direction: column;
+    color: #a7a7a7;
+    font-size: 16px;
+    /* font-family:Arial, Helvetica, sans-serif; */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.5px;
+}
+.Side-nav-list li{
+    height: 40px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 4px 12px;
+    gap: 20px;
+    cursor: pointer;
+    padding: 0 0.5rem;
+
+}
+
+.Side-nav-list li:hover{
+    color: white;
+}
+
+/* Your-library */
+/* //////////////////////////////////////////////////////////// */
+.Your-library{
+    height: 62.5%;
+}
+.Your-library button{
+    background-color: transparent;
+    border: none;
+}
+.Your-library-container-1{
+    background-color: #292929;
+    border-radius: 0.6rem 0.6rem 0 0;
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+    color: #a7a7a7;
+    padding: 16px 32px;
+    
+}
+.Your-library-container-1 button{
+    border-radius: 50%;
+}
+.Your-library-container-1 *:hover{
+    color: white;
+}
+.btnBg:hover{
+    background-color:#3c3c3c;
+    border-radius: 50%;
+}
+.Your-library-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    border: none;
+    background-color: transparent;
+    color: #a7a7a7;
+    /* padding: 4px 8px; */
+}
+
+.Your-library-container-2{
+    background-color: #292929;
+    padding: 16px 16px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Your-library-2-btn{
+    font-size: 1rem;
+    border: none;
+    /* background-color: transparent; */
+    padding: 8px 12px;
+    border-radius: 1.2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.3px;
+    color: white;
+    background-color: hsla(0,0%,100%,.07);
+}
+
+/* Recents */
+/* /////////////////////////////////////////////////////////////////////////////// */
+.Your-library-container-3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 16px;
+    background-color: #292929;
+
+}
+.Your-library-recents{
+    display: flex;
+    color: #a7a7a7;
+    align-items: center;
+    gap: 8px;
+}
+
+/* Your LIbrary songs/////////////////////////////  */
+.Your-library-container-4{
+    /* height: calc(100% - 55px); */
+    height: 100%;
+    /* padding: 0 4px; */
+    /* background-color: #292929; */
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* padding-left: 32px; */
+  
+}
+
+.Your-library-songs-scrollbar{
+    
+    /* max-height:56vh; */
+    /* overflow-y: scroll; */
+    overflow-y: auto;
+    
+    height: calc(100% - 2px);
+    scrollbar-color: #a7a7a7 #292929;
+}
+/* 
+.Your-playlist:hover{
+    background-color: aqua;
+} */
+
+.Your-playlist{
+    display: flex;
+    justify-content: space-between;
+    margin:8px;
+    background-color: hsla(0,0%,100%,.07);
+    padding: 8px 0 8px 8px;
+    border-radius: 0.5rem;
+    cursor:pointer;
+}
+.Your-playlist:hover{
+    background-color:  hsla(0,0%,100%,.03);
+}
+
+
+.Side-nav.light-theme{
+    .Side-nav-container{
+        background-color: #E7E9EB;
+    }
+    .Side-nav-list{
+        color:black;
+    }
+    .Home-icon{
+        color: black;
+    }
+    .Your-library-container-1{
+        background-color: #E7E9EB;
+    }
+    .Your-library-btn{
+        color: black;
+    }
+    .Your-library-container-1 *:hover{
+        color: rgb(167, 167, 167);
+    }
+ 
+    .Your-playlist{
+        color: black;
+        background-color: #E7E9EB;
+    }
+    
+      .Your-playlist:hover{
+        background-color: rgb(167, 167, 167);
+    }
+
+
+    .Your-library-songs-scrollbar{
+    
+        scrollbar-color: #E7E9EB white;
+    }
+    .active-link{
+        /* background-color: black;
+        border-radius: 8px ; */
+        color:white
+    }
+
+}
+.Side-nav.light-theme:hover{
+    .Side-nav-container{
+        background-color: #E7E9EB;
+    }
+    .Search-icon:hover{
+        color:#292929;
+        background-color: #a7a7a7;
+        border-radius: 0.4rem;
+    }
+    .Home-icon:hover{
+        color: #292929;
+        background-color: #a7a7a7;
+        border-radius: 0.4rem;
+    }
+  
+}
+
+.active-link{
+    background-color: black;
+    border-radius: 8px ;
+}

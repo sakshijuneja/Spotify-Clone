@@ -1,0 +1,13 @@
+.home-container{
+    /* background-color: palevioletred; */
+    /* height: calc(100% - 189px);  */
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* overflow-y: scroll; */
+    
+}
+
+.home-container.light-theme{
+background-color: white;
+}

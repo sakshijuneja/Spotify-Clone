@@ -1,0 +1,133 @@
+.login-wrapper {
+  width: 100%;
+  height: 100%;
+  /* background-color: pink; */
+}
+
+/* Header////////////////// */
+.login-header {
+  width: 100%;
+  height: 100px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  padding: 32px 0 32px 51px;
+}
+
+.login-header-logo {
+  height: 100%;
+  width: 100%;
+  background-image: url(../assets/images/Spotify-symbol.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+/* Form/////////////////////// */
+.login-body {
+  height: 100%;
+  width: 100%;
+  /* background: rgb(25,25,25); */
+  background: linear-gradient(
+    180deg,
+    rgba(25, 25, 25, 0.9) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  padding: 32px;
+}
+
+.login-form-body {
+  width: 50%;
+  height: 100%;
+  /* background-color: pink; */
+  background-color: #121212;
+  margin: auto;
+  text-align: center;
+  padding: 32px 0;
+  border-radius: 0.8rem;
+}
+.login-form-container {
+  width: 55%;
+  height: 90%;
+  /* background-color: aqua; */
+  margin: auto;
+  position: relative;
+  color: white;
+}
+.login-form-heading {
+  font-size: 2.3em;
+  margin: 48px 0;
+  /* white-space: nowrap; */
+}
+.login-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-form input,
+.login-form button {
+  padding: 14px;
+  border-radius: 8px;
+  /* border: none; */
+  margin-bottom: 1rem;
+  border: none;
+}
+.login-body label {
+  text-align: left;
+  padding: 0 0 8px;
+}
+.log-in-btn {
+  border-radius: 2.5rem;
+  background-color: #1ed760;
+  border: none;
+  font-weight: bold;
+  margin: 10px 0 20px;
+  cursor: pointer;
+  width: 100%;
+}
+.log-in-btn:hover {
+  background-color: #21e867;
+  transform: scale(1.05);
+}
+.do-not-have-acc {
+  /* padding: 32px 0; */
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: #a7a7a7;
+}
+.sign-up-for-spotify {
+  color: white;
+  text-decoration: underline;
+  margin-left: 10px;
+}
+.sign-up-for-spotify:hover {
+  color: #1ed760;
+  cursor: pointer;
+}
+
+/* LoginLightTheme.css */
+.login-wrapper.light-theme {
+  .login-body {
+    background: none;
+  }
+
+  .login-form-body{
+    background-color: #E7E9EB;
+  }
+
+  .login-form-container {
+color: black;
+  }
+
+  .sign-up-for-spotify{
+    color: #a7a7a7;
+  }
+
+  /* .login-header{
+    background-color: #1ed760;
+  } */
+      
+  /* Light theme styles */
+  background-color: white;
+  /* color: aqua; */
+}

@@ -1,0 +1,152 @@
+.Header{
+    /* width: 100%; */
+    width: 100%;
+    height: 100%;
+    background-color: #292929;
+    padding: 16px;
+    border-radius: 0.6rem  0.6rem 0 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+}
+
+.Header-container-1{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: pink; */
+}
+.Header-left-section{
+    /* background-color: aqua; */
+    display: flex;
+    gap: 7px;
+}
+.Header-left-section button{
+    background-color: #000000B3;
+    color: #a7a7a7;
+    border-radius: 50%;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+}
+.Header-left-section button:hover, .Header-right-section button:hover{
+    /* background-color:#3c3c3c; */
+}
+.Header-right-section{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    right: 5rem;
+
+}
+.Header-right-section *{
+    height: 100%;
+    /* width:unset; */
+}
+.Header-btn-right{
+    font-size: 1rem;
+    border: none;
+    /* background-color: transparent; */
+    padding: 8px;
+    border-radius: 1.2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.3px;
+    cursor: pointer;
+    background-color: black;
+
+}
+
+/* .Explore-premium{
+    color: black;
+    background-color: white;
+} */
+.Install-app{
+    /* background-color: black; */
+    color: white;
+    display: flex;
+    gap: 4px;
+}
+
+
+
+/* Container-2 */
+/* ///////////////////////////////////////////////////////////////////////// */
+.Header-container-2{
+
+    display: flex;
+    gap: 8px;
+    /* background-color: palegoldenrod; */
+}
+.Header-btn{
+    font-size: 1rem;
+    border: none;
+    /* background-color: transparent; */
+    padding: 8px 12px;
+    border-radius: 1.2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.3px;
+    color: white;
+    background-color: hsla(0,0%,100%,.07);
+}
+
+.avatar-dropdown {
+    position: relative;
+}
+  
+.dropdown-content {
+    position: absolute;
+    min-width: 120px;
+    z-index: 1;
+    right: -10px;
+    top: 50px;
+    box-shadow: 0 22px 24px rgba(0, 0, 0, 0.5), 0 8px 18px rgba(0, 0, 0, 0.5);
+
+}
+  
+  .dropdown-content button{
+    background-color: #292929;
+    color: white;
+    border: none;
+    padding-left: 5px;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    /* padding: 1rem; */
+  }
+  .profile-btn{
+    border-radius: 0.2rem 0.2rem 0 0 ;
+  }
+  .logout-btn{
+    border-radius: 0 0 0.2rem 0.2rem;
+  }
+  .dropdown-content button:hover {
+    background-color: #3c3c3c;
+  }
+  
+
+  .Header.light-theme{
+    background-color:#E7E9EB;
+
+    .Header-left-section button{
+        color: #000000B3;
+    background-color: white;}
+
+    .Header-btn-right{
+        color: #000000B3;
+    background-color: white;
+    }
+
+    .dropdown-content button{
+        color: #292929;
+        background-color: white;
+        box-shadow: 0 22px 24px rgba(0, 0, 0, 0.2), 0 8px 18px rgba(0, 0, 0, 0.3);
+    }
+
+        .dropdown-content button:hover {
+            background-color: #E7E9EB;
+          }
+  }

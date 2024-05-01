@@ -1,0 +1,32 @@
+/* ScrollBar/////////////////////////////////////// */
+::-webkit-scrollbar {
+    width: auto;
+  }
+
+/* Track */
+::-webkit-scrollbar-track {
+    /* background: black;  */
+  }
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #a7a7a7; 
+  }
+/* ScrollBar/////////////////////////////////////// */
+
+.App{
+  position: relative;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: black;
+    /* padding: 8px 8px 0 8px; */
+    /* background-color: cadetblue;
+    width: 100%;
+    height: 100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.5px;
+    display: flex;
+    gap: 8px */
+}
+
+
+   
+ 

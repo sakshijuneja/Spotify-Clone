@@ -1,0 +1,27 @@
+.YourLibraryWithoutLogin-box{
+    width: 100%;
+    /* height: 100%; */
+    /* background-color: pink; */
+    padding: 8px;
+    border-radius: 0.6rem;
+    margin: 8px 0;
+  
+}
+.YourLibraryWithoutLogin-box-container{
+    height: 100%;
+    background-color: hsla(0,0%,100%,.07);
+    padding: 8px;
+    border-radius: 0.6rem;
+}
+.YourLibraryWithoutLogin-box-dec{
+    margin-bottom: 8px;
+}
+.white-outside-black-inside-btn{
+    font-size: 1rem;
+    border: none;
+    /* background-color: transparent; */
+    padding: 8px;
+    border-radius: 1.2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.3px;
+}

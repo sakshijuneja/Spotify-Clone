@@ -1,0 +1,4261 @@
+[
+    {
+      "singer_id": 1,
+      "name": "Diljit Dosanjh",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Do You Know",
+          "album": "Do You Know",
+          "image_url": "https://i.scdn.co/image/ab67616d00004851b1439e27c86a7c1aa0284d84",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/2655253/Do%20You%20Know%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Laembadgini",
+          "album": "Laembadgini",
+          "image_url": "https://lq.djjohal.com/covers/55078/Laembadgini.jpg",
+          "song_url": "https://dl2.djring.com/sd2.djjohal.com/128/478322/(DJJOhAL.Com).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Proper Patola",
+          "album": "Proper Patola",
+          "image_url": "https://pagalnew.com/coverimages/Proper-Patola-Diljit-Dosanjh-500-500.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1143107/Proper%20Patola%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Raat Di Gedi",
+          "album": "Raat Di Gedi",
+          "image_url": "https://britasia.tv/wp-content/uploads/2017/12/Diljit-Dosanjh-2.jpg",
+          "song_url": "https://cdnsongs.com/music/data/Single_Track/201712/Raat_Di_Gedi/128/Raat_Di_Gedi_1.mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Patiala Peg",
+          "album": "Patiala Peg",
+          "image_url": "https://i.pinimg.com/originals/67/14/0a/67140a701cf5ba37f6199ba83fcf508f.jpg",
+          "song_url": "https://cdnsongs.com/music/data/Punjabi/201505/Smash_Hits_of_2015_Vol_2/128/Patiala_Peg.mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Jind Mahi",
+          "album": "Jind Mahi",
+          "image_url": "https://1.bp.blogspot.com/-M6W9XDi1sMY/W_uc72FP6pI/AAAAAAAAAUE/HGPHtEQ42QwY6G2M_1kjvywt-622-z2tACLcBGAs/s320/jind-mahi-diljit-dosanjh.jpg",
+          "song_url": "https://cdnsongs.com/music/data/Single_Track/201811/Jind_Mahi/128/Jind_Mahi_1.mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Dil Todeya",
+          "album": "Dil Todeya",
+          "image_url": "https://tse2.mm.bing.net/th?id=OIP.gdqWDroClOVJaImJKvryRgHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://s320.djpunjab.is/data/48/45945/292559/Dil%20Todeya%20(Arjun%20Patiala)%20-%20Diljit%20Dosanjh.mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Ik Kudi",
+          "album": "Udta Punjab",
+          "image_url": "https://img.youtube.com/vi/EZh7my_RASk/maxresdefault.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/2390320/Ikk Kudi - Club Mix - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Jatt Fire Karda",
+          "album": "Ambarsariya",
+          "image_url": "https://assets.audiomack.com/dj-xtatic/603d36744817387c6f79cc84bd98d7c7.png?width=1000&height=1000&max=true",
+          "song_url": "https://cdnsongs.com/mrisky/data3/Punjabi_Single/201511/Jatt_Fire_Karda_Original_Song/128/Jatt_Fire_Karda_Original_Song.mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Gabru",
+          "album": "Gabru",
+          "image_url": "https://cover.djpunjab.is/44762/300x700/gabru-nu-diljit-dosanjh.webp",
+          "song_url": "https://s320.djpunjab.is/data/48/44762/290901/Gabru%20Nu%20-%20Diljit%20Dosanjh.mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Stranger",
+          "album": "Stranger",
+          "image_url": "https://tse2.mm.bing.net/th?id=OIP.N2Y9k6jhKlSR3dBEoRC2ngHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://cdnsongs.com/music/data/Single_Track/202001/Stranger/128/Stranger_1.mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Glorious Gallan",
+          "album": "Super Singh",
+          "image_url": "https://raag.fm/image/250/10807853/Super_Singh_Diljit_Dosanjh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10807853/Glorious Gallan - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "5 Taara",
+          "album": "5 Taara",
+          "image_url": "https://tse4.mm.bing.net/th?id=OIP.XcQ3JKjwbxon4vTQZbJbVQHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://cdnsongs.com/music/data/Single_Track/201512/5_Taara/128/5_Taara_1.mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Gulabi Pagg",
+          "album": "Gulabi Pagg",
+          "image_url": "https://cover.djpunjab.is/44255/300x700/gulabi-pagg-diljit-dosanjh.webp",
+          "song_url": "https://s320.djpunjab.is/data/48/44255/290133/Gulabi%20Pagg%20-%20Diljit%20Dosanjh.mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "El Sueno",
+          "album": "El Sueno",
+          "image_url": "https://source.boomplaymusic.com/group10/M00/08/28/6f899e9bb93c4068b391e8e571cf7bd1_464_464.webp",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/11586553/El%20Sueno%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Love Ya",
+          "album": "Love Ya",
+          "image_url": "https://djbaap.net/wp-content/media/covers/5273.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26062/Love%20Ya%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Thug Life",
+          "album": "Roar",
+          "image_url": "https://cover.djpunjab.is/44403/300x700/thug-life-diljit-dosanjh.webp",
+          "song_url": "https://s320.djpunjab.is/data/48/44403/290398/Thug%20Life%20-%20Diljit%20Dosanjh.mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Black & White",
+          "album": "MoonChild Era",
+          "image_url": "https://tse2.mm.bing.net/th?id=OIP.N2Y9k6jhKlSR3dBEoRC2ngHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://cdnsongs.com/music/data/Punjabi/202108/MoonChild_Era/128/Black_White.mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Born to Shine",
+          "album": "Born to Shine",
+          "image_url": "https://i.scdn.co/image/ab67616d00004851e62ca3548e739bd85eebbbc9",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/18613/Born%20To%20Shine%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Mera Dil Ni Parhaee Wich ",
+          "album": "Mera Dil Ni Parhaee Wich ",
+          "image_url": "https://tse2.mm.bing.net/th?id=OIP.u_o5nwKiCGSmeagAFvFq_AHaFj&pid=Api&P=0&h=180",
+          "song_url": "https://djbaap.me/data/128/Hindi/2729/Mera%20Dil%20Ni%20Parhaee%20Wich%20-%20DjBaap.Net.mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 2,
+      "name": "Guru Randhawa",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Lahore",
+          "album": "Lahore",
+          "image_url": "https://raag.fm/image/250/11947395/Lahore-Guru-Randhawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/11947395/Lahore%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "High Rated Gabru",
+          "album": "High Rated Gabru",
+          "image_url": "https://raag.fm/image/250/11090034/High-Rated-Gabru-Guru-Randhawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/12998/High%20Rated%20Gabru%20Remix%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Suit",
+          "album": "Suit",
+          "image_url": "https://raag.fm/image/250/12729/Suit_Suit_Remix_Guru_Randhawa,Arjun.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/2404626/Suit%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Ban Ja Tu Meri Rani",
+          "album": "Ban Ja Tu Meri Rani",
+          "image_url": "https://tse3.mm.bing.net/th?id=OIP.Vlo-J3LilpgtDVkPsM5YlAHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/12904/High%20Rated%20Gabru%20Ban%20Ja%20Rani%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Sunrise",
+          "album": "G Thing",
+          "image_url": "https://raag.fm/image/250/25966/G_Thing_Guru_Randhawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/25966/Sunrise%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Patola",
+          "album": "Blackmail",
+          "image_url": "https://tse1.mm.bing.net/th?id=OIP.p1MxkxgDcB4fgX0vEmNx_QHaHa&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/13561/Patola%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Made in India",
+          "album": "Made in India",
+          "image_url": "https://raag.fm/image/250/14241/Made_In_India_Guru_Randhawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/14241/Made In India - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Daaru Wargi",
+          "album": "Cheat India",
+          "image_url": "https://cover.djpunjab.is/44276/300x700/daaru-wargi-(cheat-india)-guru-randhawa.webp",
+          "song_url": "https://s320.djpunjab.is/data/48/44276/290163/Daaru%20Wargi%20(Cheat%20India)%20-%20Guru%20Randhawa.mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Slowly Slowly",
+          "album": "Slowly Slowly",
+          "image_url": "https://tse3.mm.bing.net/th?id=OIP.wiVfBI1VeTedR__TOKruygHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://s320.djpunjab.is/data/48/45179/291535/Slowly%20Slowly%20-%20Guru%20Randhawa.mp3    "
+        },
+        {
+          "song_id": 10,
+          "title": "Downtown",
+          "album": "Downtown",
+          "image_url": "https://cover.djpunjab.is/43774/300x700/downtown-guru-randhawa.webp",
+          "song_url": "https://s320.djpunjab.is/data/48/43774/289508/Downtown%20-%20Guru%20Randhawa.mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Yaar Mod Do",
+          "album": "Yaar Mod Do",
+          "image_url": "https://cover.djpunjab.is/41068/300x700/hits-of-guru-randhawa-guru-randhawa.webp",
+          "song_url": "https://p320.djpunjab.is/data/48/41068/285598/Yaar%20Mod%20Do%20-%20Guru%20Randhawa.mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Morni Banke",
+          "album": "Badhaai Ho",
+          "image_url": "https://cover.djpunjab.is/43594/300x700/morni-banke-(badhaai-ho)-guru-randhawa.webp",
+          "song_url": "https://s320.djpunjab.is/data/48/43594/289250/Morni%20Banke%20(Badhaai%20Ho)%20-%20Guru%20Randhawa.mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Raat Kamaal Hai",
+          "album": "Raat Kamaal Hai",
+          "image_url": "https://cover.djpunjab.is/42427/300x700/ratt-kamaal-hai-guru-randhawa.webp",
+          "song_url": "https://s320.djpunjab.is/data/48/42427/287637/Ratt%20Kamaal%20Hai%20-%20Guru%20Randhawa.mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Surma Surma",
+          "album": "Surma Surma",
+          "image_url": "https://atozsong.com.in/uploads/63da4766560d21675249510.jpg",
+          "song_url": "https://atozsong.com.in/songs/punjabi/Surma Surma 2020/Surma Surma 128 Kbps.mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Chill Mode",
+          "album": "G Thing",
+          "image_url": "https://raag.fm/image/250/25966/G_Thing_Guru_Randhawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/25966/Chill Mode - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Outfit",
+          "album": "Outfit",
+          "image_url": "https://cover.djpunjab.is/35937/300x700/outfit-guru-randhawa.webp",
+          "song_url": "https://s320.djpunjab.is/data/48/35937/276729/Outfit%20-%20Guru%20Randhawa.mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Fashion",
+          "album": "Fashion",
+          "image_url": "https://cover.djpunjab.is/41068/300x700/hits-of-guru-randhawa-guru-randhawa.webp",
+          "song_url": "https://p320.djpunjab.is/data/48/41068/285601/Fashion%20-%20Guru%20Randhawa.mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Taare",
+          "album": "Taare",
+          "image_url": "https://cover.djpunjab.is/39305/300x700/taare-guru-randhawa.webp",
+          "song_url": "https://s320.djpunjab.is/data/48/39305/282770/Taare%20-%20Guru%20Randhawa.mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Ishq Tera",
+          "album": "Ishq Tera",
+          "image_url": "https://raag.fm/image/250/16119/Ishq-Tera-Guru-Randhawa.jpg",
+          "song_url": "https://raag.fm/image/250/16119/Ishq-Tera-Guru-Randhawa.jpg"
+        },
+        {
+          "song_id": 20,
+          "title": "Enni Soni",
+          "album": "Saaho",
+          "image_url": "https://raag.fm/image/250/15702/Enni_Soni_(Saaho)_Guru_Randhawa,Tulsi_Kumar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/15702/Enni Soni (Saaho) - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 3,
+      "name": "Ammy Virk",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Basanti",
+          "album": "Layers",
+          "image_url": "https://cover.djpunjab.is/53218/300x700/layers-ammy-virk.webp",
+          "song_url": "https://p320.djpunjab.is/data/48/53218/301389/Basanti%20-%20Ammy%20Virk.mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Sufna",
+          "album": "Layers",
+          "image_url": "https://cover.djpunjab.is/53218/300x700/layers-ammy-virk.webp",
+          "song_url": "https://p320.djpunjab.is/data/48/53218/301393/Supna%20-%20Ammy%20Virk.mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Wang Da Naap",
+          "album": "Wang Da Naap",
+          "image_url": "https://pagalworld.com.im/datadbs/thumb/sft16/7541_4.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/14989/Wang%20Da%20Naap%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Adhoore Chaa",
+          "album": "Ammy Virk",
+          "image_url": "https://tse1.mm.bing.net/th?id=OIP.ZxM_OSZkg4VmhJcxcgACNAHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://p320.djpunjab.is/data/48/7769/77128/Adhoore%20Chaa%20-%20Ammy%20Virk.mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Hath Chumme",
+          "album": "Hath Chumme",
+          "image_url": "https://raag.fm/image/250/14304/Hath_Chumme_Ammy_Virk.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/14304/Hath Chumme - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Fateh",
+          "album": "Fateh",
+          "image_url": "https://i.ytimg.com/vi/vGjkgtde38U/maxresdefault.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26013/Fateh - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Sardaar Munde",
+          "album": "Sardaar Munde",
+          "image_url": "https://raag.fm/image/250/25591/Sardaar_Munde_Ammy_Virk.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25591/Sardaar Munde - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Jutti",
+          "album": "Muklawa",
+          "image_url": "https://cover.djpunjab.is/45265/300x700/muklawa-ammy-virk.webp",
+          "song_url": "https://p320.djpunjab.is/data/48/45265/291650/Jutti%20-%20Ammy%20Virk.mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Fakira",
+          "album": "Qismat",
+          "image_url": "https://cover.djpunjab.is/43549/300x700/qismat-ammy-virk.webp",
+          "song_url": "https://p320.djpunjab.is/data/48/43549/289174/Fakira%20-%20Gurnam%20Bhullar.mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Khabbi Seat",
+          "album": "Khabbi Seat",
+          "image_url": "https://i.ytimg.com/vi/cffzTYo9BMM/maxresdefault.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/20436/Khabbi%20Seat%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Chidi Blauri",
+          "album": "Laung Laachi",
+          "image_url": "https://cover.djpunjab.is/42085/300x700/laung-laachi-ammy-virk.webp",
+          "song_url": "https://p320.djpunjab.is/data/48/42085/287095/Chidi%20Blauri%20-%20Ammy%20Virk.mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Je Jatt Vigar Gya",
+          "album": "Je Jatt Vigar Gya",
+          "image_url": "https://tse4.mm.bing.net/th?id=OIP.8F5sKNPwHfB84e7TawH3qAHaHa&pid=Api&P=0&h=180",
+          "song_url": "https://cdnsongs.com/music/data/Punjabi/201403/Jattizm/128/Date_6.mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Regret",
+          "album": "Regret",
+          "image_url": "https://raag.fm/image/250/18826/Regret_Ammy_Virk.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/18826/Regret - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Background",
+          "album": "Background",
+          "image_url": "https://art.djyoungster.in/img/250x250/62650.jpg",
+          "song_url": "https://djyoungster.net/music/48/LaTest Punjabi/Background-Ammy Virk/Background Ammy Virk.mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Surma To Sandals",
+          "album": "Surma To Sandals",
+          "image_url": "https://tse4.explicit.bing.net/th?id=OIP.ZV8B6WI86FZl94_3VoxZtAHaE2&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/2305150/Surma To Sandals - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Goal (Goal)",
+          "album": "Trending Punjabi Hits",
+          "image_url": "https://raag.fm/image/250/1193596/Trending_Punjabi_Hits_Hardy_Sandhu,Jassi_Gill,Girik_Aman_,_Ammy_Virk.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1193596/Goal%20(Goal)%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Khat",
+          "album": "Khat",
+          "image_url": "https://raag.fm/image/250/1304100/Khat_Guru_Randhawa,Ft._Ikka.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1304100/Khat%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Kali Jotta",
+          "album": "Nikka Zaildar 2",
+          "image_url": "https://cover.djpunjab.is/40657/300x700/nikka-zaildar-2-ammy-virk.webp",
+          "song_url": "https://p320.djpunjab.is/data/48/40657/284994/Kali%20Jotta%20-%20Ammy%20Virk.mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Gaani",
+          "album": "Nikka Zaildar 2",
+          "image_url": "https://cover.djpunjab.is/40657/300x700/nikka-zaildar-2-ammy-virk.webp",
+          "song_url": "https://p320.djpunjab.is/data/48/40657/284995/Gaani%20-%20Ammy%20Virk.mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Tod Da E Dil",
+          "album": "Tod Da E Dil",
+          "image_url": "https://cover.djpunjab.is/48237/300x700/tod-da-e-dil-full-version-ammy-virk.webp",
+          "song_url": "https://s320.djpunjab.is/data/48/48237/295614/Tod%20Da%20E%20Dil%20Full%20Version%20-%20Ammy%20Virk.mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 4,
+      "name": "Arijit Singh",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Tum Hi Ho",
+          "album": "Aashiqui 2",
+          "image_url": "https://raag.fm/image/250/1139549/Aashiqui_2_Arijit_Singh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1139549/Tum Hi Ho - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Channa Mereya",
+          "album": "Ae Dil Hai Mushkil",
+          "image_url": "https://tse2.mm.bing.net/th?id=OIP.A9j8M_t4txa1aLUErW_gOgHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/13032/Channa%20Mereya%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Bolna",
+          "album": "Bolna",
+          "image_url": "https://raag.fm/image/250/13032/Arijit_Singh_Hits_Arijit_Singh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/13032/Bolna - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Raabta",
+          "album": "Agent Vinod",
+          "image_url": "https://raag.fm/image/250/1018603/Agent_Vinod_Shreya_Ghoshal,Arijit_Singh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1018603/Raabta (Kehte Hain Khuda Ne) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Phir Le Aya Dil",
+          "album": "Barfi!",
+          "image_url": "https://raag.fm/image/250/1062298/Barfi_Arijit_Singh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1062298/Phir Le Aya Dil (Reprise) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Tera Yaar Hoon Main",
+          "album": "Sonu Ke Titu Ki Sweety",
+          "image_url": "https://raag.fm/image/250/13032/Arijit_Singh_Hits_Arijit_Singh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/13032/Tera Yaar Hoon Main - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Ae Dil Hai Mushkil",
+          "album": "Ae Dil Hai Mushkil",
+          "image_url": "https://tse1.mm.bing.net/th?id=OIP.3CbvjSpGa1mW0jzdk2UPQAAAAA&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2995057/Ae%20Dil%20Hai%20Mushkil%20Title%20Track%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Kabira",
+          "album": "Yeh Jawaani Hai Deewani",
+          "image_url": "https://tse2.mm.bing.net/th?id=OIP.9-AtqlGflR6BHya-voaoBQHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/13064/Kabira Encore - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "O Maahi",
+          "album": "O Maahi",
+          "image_url": "https://raag.fm/image/250/25959/O_Maahi_Arijit_Singh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/25959/O Maahi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Tera Ban Jaunga",
+          "album": "Kabir Singh",
+          "image_url": "https://raag.fm/image/250/15265/Kabir_Singh_Tulsi_Kumar,Akhil_Sachdeva.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/15265/Tera Ban Jaunga - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Enna Sona",
+          "album": "OK Jaanu",
+          "image_url": "https://raag.fm/image/250/3304904/OK_Jaanu_Arijit_Singh,.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/3304904/Enna Sona - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Tum Hi Ho (Reprise)",
+          "album": "Aashiqui 2",
+          "image_url": "https://raag.fm/image/250/1139549/Aashiqui_2_Arijit_Singh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1139549/Tum Hi Ho - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Ilahi",
+          "album": "Yeh Jawaani Hai Deewani",
+          "image_url": "https://raag.fm/image/250/13064/Arijit_Singh_Live_With_Symphony_Orchestr_Arijit_Singh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/13064/Ilahi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Pal",
+          "album": "Monsoon Shootout",
+          "image_url": "https://raag.fm/image/250/13071/Monsoon_Shootout_Arijit_Singh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/13071/Pal - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Aaj Phir",
+          "album": "Hate Story 2",
+          "image_url": "https://raag.fm/image/250/13064/Arijit_Singh_Live_With_Symphony_Orchestr_Arijit_Singh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/13064/Aaj Phir - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Hamari Adhuri Kahani",
+          "album": "Hamari Adhuri Kahani",
+          "image_url": "https://raag.fm/image/250/1243478/Hamari_Adhuri_Kahani_Arijit_Singh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1243478/Hamari Adhuri Kahani - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Tera Fitoor",
+          "album": "Genius",
+          "image_url": "https://pagal.com.in/assets/images/Tera_Fitoor_-_Genius_128_Kbps.jpeg",
+          "song_url": "https://pagal.com.in/assets/images/products/Tera_Fitoor_-_Genius_128_Kbps.mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Hawayein",
+          "album": "Jab Harry Met Sejal",
+          "image_url": "https://raag.fm/image/250/13032/Arijit_Singh_Hits_Arijit_Singh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/13032/Hawayein - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Phir Mohabbat",
+          "album": "Murder 2",
+          "image_url": "https://raag.fm/image/250/1152890/Soulful_Voice_-_Arijit_Singh_Mohammed_Irfan,Arijit_Singh,Saim_Bhat.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1152890/Phir Mohabbat - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Tum Se Hi",
+          "album": "Aashiqui 2",
+          "image_url": "https://raag.fm/image/250/1139549/Aashiqui_2_Arijit_Singh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1139549/Tum Hi Ho - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 5,
+      "name": "A.R. Rahman",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Never Say Goodbye",
+          "album": "Never Say Goodbye",
+          "image_url": "https://tse2.mm.bing.net/th?id=OIP.7QhqoCHXz4HQ-DXwjacqzwHaGY&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/18904/Never%20Say%20Goodbye%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Tum Tak",
+          "album": "Raanjhanaa",
+          "image_url": "https://raag.fm/image/250/11151498/Tum_Tak_Kirti_Sagathia,A.V._Pooja,Javed_Ali,A.R._Rahman.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/11151498/Tum Tak - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Kun Faya Kun",
+          "album": "Rockstar",
+          "image_url": "https://raag.fm/image/250/1725915/Best_Of_AR_Rahman_A.R._Rahman,Javed_Ali,Mohit_Chauhan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1725915/Kun Faaya Kun - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Maa Tujhe Salaam",
+          "album": "Vande Mataram",
+          "image_url": "https://raag.fm/image/250/2764956/Vande_Mataram_A.R._Rahman.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2764956/Maa Tujhe Salaam - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Dil Se Re",
+          "album": "Best Collection Of Gulzar",
+          "image_url": "https://raag.fm/image/250/1145865/Best_Collection_Of_Gulzar_A.R._Rahman,Anuradha_Paudwal,Anupama.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1145865/Dil Se Re - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Roja Jaaneman",
+          "album": "Roja",
+          "image_url": "https://raag.fm/image/250/1148062/My_1_Rahman_S.P._Balasubrahmanyam.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1148062/Roja Jaaneman - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Yeh Haseen Vadiyan",
+          "album": "Roja",
+          "image_url": "https://raag.fm/image/250/1243764/Roja_A.R._Rahman,S._P._Balasubrahmanyam,Chitra.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1243764/Yeh Haseen Vadiyan Yeh Khula Aasman - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Tere Bina",
+          "album": "Sufi Stars",
+          "image_url": "https://raag.fm/image/250/1131935/Sufi_Stars_A.R._Rahman_Feat._A.R._Rahman;_Chinmaye_,_Murtuza_Qadir.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1131935/Tere Bina - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Dil Bechara",
+          "album": "Dil Bechara 2020",
+          "image_url": "https://raag.fm/image/250/18413/Dil_Bechara_2020_A.R._Rahman.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/18413/Dil Bechara - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Friendzone",
+          "album": "Dil Bechara 2020",
+          "image_url": "https://raag.fm/image/250/18413/Dil_Bechara_2020_A.R._Rahman.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/18413/Friendzone - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "The Oracle",
+          "album": "The Oracle",
+          "image_url": "https://raag.fm/image/250/17892/99_Songs_A.R._Rahman.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/17892/The Oracle - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "O Sona Tere Liye",
+          "album": "MOM",
+          "image_url": "https://raag.fm/image/250/11006818/MOM_A.R._Rahman,Shashaa_Tirupati.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/11006818/O Sona Tere Liye - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "O Sona Tere Liye",
+          "album": "MOM",
+          "image_url": "https://raag.fm/image/250/11006818/MOM_A.R._Rahman,Shashaa_Tirupati.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/11006818/O Sona Tere Liye - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Jiya Jale",
+          "album": "Dil Se",
+          "image_url": "https://raag.fm/image/250/1025683/Dil_Se_Lata_Mangeshkar,M._G._Sreekumar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1025683/Jiya Jale - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Marvel Anthem",
+          "album": "Marvel Anthem",
+          "image_url": "https://raag.fm/image/250/14494/Marvel_Anthem_A.R._Rahman.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/14494/Marvel Anthem - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Khalbali",
+          "album": "Rang De Basanti",
+          "image_url": "https://raag.fm/image/250/2765410/Rang_De_Basanti_Mohammed_Aslam,Nacim,A.R._Rahman.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2765410/Khalbali - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Barso Re",
+          "album": "Guru",
+          "image_url": "https://raag.fm/image/250/1028969/Guru_Shreya_Ghoshal,Uday_Mazumdar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1028969/Barso Re - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Dil Bechara Title Track",
+          "album": "Dil Bechara Title Track",
+          "image_url": "https://tse3.mm.bing.net/th?id=OIP.KrbYilSjC2s9Fw0pQzY4MAHaHa&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/18412/Dil Bechara Title Track - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Kabhi Kabhi Aditi",
+          "album": "Jaane Tu... Ya Jaane Na",
+          "image_url": "https://raag.fm/image/250/1051660/The_Master_Collection_(AR_Rahman-Instrumental)_.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1051660/Kabhi Kabhi Aditi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Roobaroo",
+          "album": "Rang De Basanti",
+          "image_url": "https://raag.fm/image/250/2765410/Rang_De_Basanti_A.R._Rahman,Naresh_Iyer.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2765410/Roobaroo - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 6,
+      "name": "Atif Aslam",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Tera Hone Laga Hoon",
+          "album": "Ajab Prem Ki Ghazab Kahani",
+          "image_url": "https://raag.fm/image/250/1020401/Atif_Rocks_Atif_Aslam,Alisha_Chinai.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1020401/Tera Hone Laga Hoon - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Tere Sang Yaara",
+          "album": "Rustom",
+          "image_url": "https://raag.fm/image/250/2433329/Rustom_Atif_Aslam.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2433329/Tere Sang Yaara - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Jeene Laga Hoon",
+          "album": "Ramaiya Vastavaiya",
+          "image_url": "https://raag.fm/image/250/1140889/Ramaiya_Vastavaiya_Atif_Aslam,Shreya_Ghoshal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1140889/Jeene Laga Hoon - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Pehli Dafa",
+          "album": "Pehli Dafa",
+          "image_url": "https://raag.fm/image/250/3319044/Pehli_Dafa_Atif_Aslam.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/3319044/Pehli Dafa - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Tera Naam Doon",
+          "album": "Entertainment",
+          "image_url": "https://raag.fm/image/250/11122806/Iconic_Legend_Of_Bollywood_-_Legendary_Hits_Of__Atif_Aslam_Atif_Aslam,Shalmali_Kholgade.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/11122806/Tera Naam Doon (Entertainment) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Piya O Re Piya",
+          "album": "Tere Naal Love Ho Gaya",
+          "image_url": "https://raag.fm/image/250/1054865/With_Love_-_Atif_Atif_Aslam,Shreya_Ghoshal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1054865/Piya O Re Piya - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Tere Liye",
+          "album": "Prince",
+          "image_url": "https://raag.fm/image/250/1214740/The_Collection_-_Atif_Aslam_Atif_Aslam,Shreya_Ghoshal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1214740/Tere Liye (Prince) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Main Rang Sharbaton Ka",
+          "album": "Phata Poster Nikhla Hero",
+          "image_url": "https://raag.fm/image/250/1142681/Phata_Poster_Nikhla_Hero_Atif_Aslam,Chinmayi_Sripada.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1142681/Main Rang Sharbaton Ka - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Tera Hua",
+          "album": "Loveyatri",
+          "image_url": "https://raag.fm/image/250/14557/Loveratri_(Movie)_Atif_Aslam_,_Tanishk_Bagchi.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/14557/Tera Hua - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Be Intehaan",
+          "album": "Race 2",
+          "image_url": "https://raag.fm/image/250/1145846/Main_Agar_Saamne_(Sensual_Romantic_Songs)_Atif_Aslam,Sunidhi_Chauhan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1145846/Be Intehaan (Race 2) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Pee Loon",
+          "album": "Once Upon A Time In Mumbaai",
+          "image_url": "https://raag.fm/image/250/1041609/Once_Upon_A_Time_In_Mumbaai_Mohit_Chauhan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1041609/Pee Loon Hoto Ki Sargam - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Ehsaas",
+          "album": "Atif Rocks",
+          "image_url": "https://raag.fm/image/250/1020401/Atif_Rocks_Atif_Aslam.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1020401/Ehsaas%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Bura Haal (Carry On Jatta 3)",
+          "album": "Bura Haal (Carry On Jatta 3)",
+          "image_url": "https://raag.fm/image/250/25042/Bura_Haal_(Carry_On_Jatta_3)_Atif_Aslam.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25042/Bura%20Haal%20(Carry%20On%20Jatta%203)%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Tere Liye",
+          "album": "Veer-Zaara",
+          "image_url": "https://tse1.mm.bing.net/th?id=OIP.nG7wZ64NtrYwMSBzwQC8LgHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1214740/Tere%20Liye%20(Prince)%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Loveyatri Mashup",
+          "album": "Loveratri (Movie)",
+          "image_url": "https://tse2.mm.bing.net/th?id=OIP.1BYvLGGy5uOWWOpVWGXELQHaEx&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/14557/Loveyatri%20Mashup%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Moonrise",
+          "album": "Moonrise",
+          "image_url": "https://raag.fm/image/250/23746/Moonrise_Atif_Aslam.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/23746/Moonrise%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Gal Sun Ja",
+          "album": "Jalpari",
+          "image_url": "https://tse3.mm.bing.net/th?id=OIP.QgUW_lcIrCsHqSbEvZQmMAHaHa&pid=Api&P=0&h=180",
+          "song_url": "https://library.pakmusic.net/PakMusicLibrary/MAINSTREAM/Atif%20Aslam/Atif%20Aslam%20-%202004%20-%20Jalpari/%5Bwww.pakmusic.net%5D_Gal.Sun.Ja.mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "In Dinon (Super Star)",
+          "album": "In Dinon (Super Star)",
+          "image_url": "https://tse1.mm.bing.net/th?id=OIP.3m-0zJDwDyPprChCq1R8xgHaHa&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/15616/In%20Dinon%20(Super%20Star)%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Tajdar-e-Haram",
+          "album": "Coke Studio Season 8",
+          "image_url": "https://naatsharif.com/wp-content/uploads/2019/10/atif-aslam.jpg",
+          "song_url": "https://www.naatsharif.com/download-mp3/atif-aslam/tajdar-e-haram.mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Jal Pari",
+          "album": "Jal Pari",
+          "image_url": "https://cdn.jattpendu.com/thumbmed/15514682.jpg",
+          "song_url": "https://cdn.jattpendu.com/download/128k-dhlth/Jal-Pari.mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 7,
+      "name": "Neha Kakkar",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Dilbar",
+          "album": "Satyameva Jayate",
+          "image_url": "https://pagal.com.in/assets/images/Dilbar_-_Satyameva_Jayate_128_Kbps.jpeg",
+          "song_url": "https://pagal.com.in/assets/images/products/Dilbar_-_Satyameva_Jayate_128_Kbps.mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "O Saki Saki",
+          "album": "Batla House",
+          "image_url": "https://pagal.com.in/assets/images/O_Saki_Saki_-_Batla_House_128_Kbps.jpeg",
+          "song_url": "https://pagal.com.in/assets/images/products/O_Saki_Saki_-_Batla_House_128_Kbps.mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Garmi",
+          "album": "Street Dancer 3D",
+          "image_url": "https://raag.fm/image/250/17138/Garmi-(Street-Dancer-3D)-Neha-Kakkar,Badshah.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/17138/Garmi (Street Dancer 3D) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Aankh Marey",
+          "album": "Simmba",
+          "image_url": "https://pagal.com.in/assets/images/Aankh_Marey_-_Simmba_128_Kbps.jpeg",
+          "song_url": "https://pagal.com.in/assets/images/products/Aankh_Marey_-_Simmba_128_Kbps.mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Mile Ho Tum",
+          "album": "Fever",
+          "image_url": "https://raag.fm/image/250/13691/Mile-Ho-Tum-Humko-Bade-Naseebon-Se-Neha-Kakkar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/13691/Mile Ho Tum Humko Bade Naseebon Se - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Gali Gali",
+          "album": "KGF Chapter 1",
+          "image_url": "https://pagal.com.in/assets/images/Gali_Gali_-_KGF_Chapter_1_128_Kbps.jpeg",
+          "song_url": "https://pagal.com.in/assets/images/products/Gali_Gali_-_KGF_Chapter_1_128_Kbps.mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Lollipop",
+          "album": "Lollipop",
+          "image_url": "https://raag.fm/image/250/26008/Lollipop_Neha_Kakkar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/26008/Lollipop - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Sawan Aaya Hai",
+          "album": "Creature 3D",
+          "image_url": "https://raag.fm/image/250/2953641/T-Series_Acoustics_Tony_Kakkar,Neha_Kakkar,Tony_Kakkar,Tony_Kakkar,Tony_Kakkar,Neha_Kakkar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2953641/Sawan Aaya Hai Acoustic - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Morni Banke",
+          "album": "Badhaai Ho",
+          "image_url": "https://pagal.com.in/assets/images/Morni_Banke_-_Badhaai_Ho_128_Kbps.jpeg",
+          "song_url": "https://pagal.com.in/assets/images/products/Morni_Banke_-_Badhaai_Ho_128_Kbps.mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Kala Chashma",
+          "album": "Baar Baar Dekho",
+          "image_url": "https://raag.fm/image/250/2480284/Baar_Baar_Dekho_Amar_Arshi,Badshah,Neha_Kakkar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2480284/Kala Chashma - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "London Thumakda",
+          "album": "Queen",
+          "image_url": "https://raag.fm/image/250/1150037/Queen_Neha_Kakkar,Sonu_Kakkar,Labh_Janjua.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1150037/London Thumakda - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Kar Gayi Chull",
+          "album": "Kapoor & Sons",
+          "image_url": "https://raag.fm/image/250/1858739/Kapoor_And_Sons_(Since_1921)_Badshah,Fazilpuria,Sukriti_Kakar,Neha_Kakkar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1858739/Kar Gayi Chull - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Aashiq Banaya Aapne",
+          "album": "Hate Story IV",
+          "image_url": "https://raag.fm/image/250/13084/Hate_Story_4_Jubin_Nautiyal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/13084/Aashiq Banaya Aapne - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Gali Gali",
+          "album": "KGF Chapter 1",
+          "image_url": "https://pagal.com.in/assets/images/Gali_Gali_-_KGF_Chapter_1_128_Kbps.jpeg",
+          "song_url": "https://pagal.com.in/assets/images/products/Gali_Gali_-_KGF_Chapter_1_128_Kbps.mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Hauli Hauli",
+          "album": "De De Pyaar De",
+          "image_url": "https://raag.fm/image/250/14729/HAULI-HAULI-(De-De-Pyaar-De)-Garry-Sandhu,Neha-Kakkar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/14729/HAULI HAULI (De De Pyaar De) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Teri Aankhon Mein",
+          "album": "Teri Aankhon Mein",
+          "image_url": "https://raag.fm/image/250/19135/Teri_Aankhon_Mein_Darshan_Raval,Neha_Kakkar_.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/19135/Teri%20Aankhon%20Mein%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "O Sajna",
+          "album": "O Sajna",
+          "image_url": "https://raag.fm/image/250/23573/O_Sajna_Neha_Kakkar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/23573/O Sajna - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Nikle Currant",
+          "album": "Nikle Currant",
+          "image_url": "https://raag.fm/image/250/14715/Nikle_Currant_Jassie_Gill,Neha_Kakkar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/14715/Nikle Currant - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "La La La",
+          "album": "Baazaar",
+          "image_url": "https://raag.fm/image/250/13279/La_La_La_Neha_Kakkar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/13279/La La La - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Nehu Da Vyah",
+          "album": "Nehu Da Vyah",
+          "image_url": "https://raag.fm/image/250/19242/Nehu_Da_Vyah_Neha_Kakkar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/19242/Nehu Da Vyah - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 8,
+      "name": "Gurdas Maan",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Chinta Na Kar Yaar",
+          "album": "Chinta Na Kar Yaar",
+          "image_url": "https://raag.fm/image/250/24229/Chinta_Na_Kar_Yaar_Gurdas_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/24229/Chinta Na Kar Yaar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Apna Punjab Hove",
+          "album": "Apna Punjab Hove",
+          "image_url": "https://raag.fm/image/250/1670168/Hits_Of_Gurdas_Maan_Gurdas_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1670168/Apna Punjab Hove - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Roti",
+          "album": "Roti",
+          "image_url": "https://raag.fm/image/250/1184810/Roti-Gurdas-Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1184810/Roti - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Ki Banu Duniya Da",
+          "album": "Ki Banu Duniya Da",
+          "image_url": "https://raag.fm/image/250/1305635/Coke_Studio_@_MTV_Season_4:_Episode_5_Gurdas_Maan,Diljit_Dosanjh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1305635/Ki Banu Duniya Da - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Mamla Gadbad Hai",
+          "album": "Mamla Gadbad Hai",
+          "image_url": "https://raag.fm/image/250/1972167/Mamla_Gadbad_Hai_Gurdas_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1972167/Mamla Gadbad Hai - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Punjab",
+          "album": "Punjab",
+          "image_url": "https://raag.fm/image/250/10187639/Punjab-Gurdas-Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/10187639/Punjab - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Main Kamli Maiya Di Kamli",
+          "album": "Main Kamli Maiya Di Kamli",
+          "image_url": "https://raag.fm/image/250/11101066/Bhakti_Gurdas_Maan_And_Nooran_Sisters_Gurdas_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/11101066/Main%20Kamli%20Maiya%20Di%20Kamli%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Boot Polishan",
+          "album": "Boot Polishan",
+          "image_url": "https://raag.fm/image/250/2764364/Boot-Polishan-Gurdas-Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/2764364/Boot Polishan - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Challa",
+          "album": "Jab Tak Hai Jaan",
+          "image_url": "https://raag.fm/image/250/24571/Challa-Gurdas-Maan,Diljit-Dosanjh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/24571/Challa - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Peer Tere Jaan Di",
+          "album": "Peer Tere Jaan Di",
+          "image_url": "https://raag.fm/image/250/1690240/Punjab_Di_Shaan_Gurdas_Maan_Gurdas_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1690240/Peer Tere Jaan Di - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Dil Da Mamla Hai",
+          "album": "Dil Da Mamla Hai",
+          "image_url": "https://raag.fm/image/250/1690240/Punjab_Di_Shaan_Gurdas_Maan_Gurdas_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1690240/Dil Da Mamla Hai - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Chakkar",
+          "album": "Chakkar",
+          "image_url": "https://raag.fm/image/250/1023205/Chakkar_Gurdas_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1023205/Chakkar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Sajna Ve Sajna",
+          "album": "Sajna Ve Sajna",
+          "image_url": "https://raag.fm/image/250/2408819/Gurdas_Maan_Hits_Gurdas_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/2408819/Sajna Ve Sajna - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Dil Da Badshah",
+          "album": "Dil Da Badshah",
+          "image_url": "https://raag.fm/image/250/2408817/Gurdas_Maan_Dil_Da_Badshah_and_Other_Hits_Gurdev_Singh_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/2408817/Dil Da Badshah - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Kar Kirpa Meri Maa",
+          "album": "Jagrata Ambe Maa Da",
+          "image_url": "https://raag.fm/image/250/11539578/Jagrata_Ambe_Maa_Da_Gurdas_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/11539578/Kar Kirpa Meri Maa - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Nakhra Janab Da",
+          "album": "Nakhra Janab Da",
+          "image_url": "https://raag.fm/image/250/1162462/Dil_-_The_Heart_Gurdas_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1162462/Nakhra - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Lakh Pardesi Hoiye",
+          "album": "Yaariyan",
+          "image_url": "https://raag.fm/image/250/1670168/Hits_Of_Gurdas_Maan_Gurdas_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1670168/Lakh Pardesi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Gal Sunoh Punjabi Dosto",
+          "album": "Gal Sunoh Punjabi Dosto",
+          "image_url": "https://raag.fm/image/250/23514/Gal_Sunoh_Punjabi_Dosto_Gurdas_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/23514/Gal Sunoh Punjabi Dosto - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Makhna",
+          "album": "Punjab",
+          "image_url": "https://raag.fm/image/250/10187639/Punjab_Gurdas_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10187639/Makhna - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Yeh Imtihaane Ishq",
+          "album": "Waris Shah",
+          "image_url": "https://raag.fm/image/250/1054181/Waris_Shah_Gurdas_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1054181/Yeh Imtihaane Ishq - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 9,
+      "name": "Shreya Ghoshal",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Agar Tum Mil Jao",
+          "album": "Zeher",
+          "image_url": "https://tse2.mm.bing.net/th?id=OIP.YRXEjArjZH6OChUxjETqOgHaFj&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1032605/Agar Tum Mil Jao - Zeher - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Sun Raha Hai",
+          "album": "Aashiqui 2",
+          "image_url": "https://raag.fm/image/250/1139549/Aashiqui_2_Shreya_Ghoshal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1139549/Sunn Raha Hai (Female) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Teri Meri",
+          "album": "Bodyguard",
+          "image_url": "https://raag.fm/image/250/1022667/Bodyguard_Shreya_Ghoshal,Rahat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1022667/Teri Meri - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Dola Re Dola",
+          "album": "Devdas",
+          "image_url": "https://raag.fm/image/250/1113753/Devdas_(OST)_Kavita_Krishnamurthy,Shreya_Ghoshal,KK.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1113753/Dola Re Dola - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Nouka Doobi",
+          "album": "Lost Movie",
+          "image_url": "https://raag.fm/image/250/24451/Lost_Movie_Shreya_Ghoshal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/24451/Nouka Doobi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Radha",
+          "album": "Student of the Year",
+          "image_url": "https://raag.fm/image/250/1070004/Student_Of_The_Year_Shreya_Ghoshal,Vishal_Dadlani,Shekhar_Ravjiani,Udit_Narayan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1070004/Radha - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Manwa Laage",
+          "album": "SRK Love Special",
+          "image_url": "https://raag.fm/image/250/1552157/SRK_Love_Special_Shreya_Ghoshal,Arijit_Singh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1552157/Manwa Laage - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Baarish Aayi Hai",
+          "album": "Baarish Aayi Hai",
+          "image_url": "https://raag.fm/image/250/23301/Baarish_Aayi_Hai_Stebin_Ben,Shreya_Ghoshal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/23301/Baarish Aayi Hai - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Sohnneyaa",
+          "album": "Sohnneyaa",
+          "image_url": "https://raag.fm/image/250/24364/Sohnneyaa_Shreya_Ghoshal,Laqshay_Kapoor.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/24364/Sohnneyaa - (Raag.Fm).mp3  "
+        },
+        {
+          "song_id": 10,
+          "title": "Mohe Rang Do Laal",
+          "album": "Bajirao Mastani",
+          "image_url": "https://raag.fm/image/250/10863311/Mohe_Rang_Do_Laal_-_Unplugged_(Bajirao_Mastani)_Shreya_Ghoshal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/10863311/Mohe Rang Do Laal (Unplugged) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Saathiyaa",
+          "album": "Shreya Ghoshal S Favorites",
+          "image_url": "https://raag.fm/image/250/1227894/Shreya_Ghoshal_S_Favorites_Shreya_Ghoshal,Ajay.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1227894/Saathiyaa - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Yeh Ishq Hai",
+          "album": "Jab We Met",
+          "image_url": "https://raag.fm/image/250/1031364/Jab_We_Met_Shreya_Ghoshal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1031364/Yeh Ishq Hai - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Bahara",
+          "album": "I Hate Luv Storys",
+          "image_url": "https://raag.fm/image/250/1030572/I_Hate_Luv_Storys_Shreya_Ghoshal,Sona_Mohapatra.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1030572/Bahara - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Banarasiya (Raanjhanaa)",
+          "album": "60 Minute Date with Sonam Kapoor",
+          "image_url": "https://raag.fm/image/250/1251965/60_Minute_Date_with_Sonam_Kapoor_Shreya_Ghoshal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1251965/Banarasiya (Raanjhanaa) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Saibo",
+          "album": "Shor in the City",
+          "image_url": "https://raag.fm/image/250/1048277/Shor_In_The_City_Shreya_Ghoshal,Tochi_Raina.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1048277/Saibo - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Pal Pal Har Pal",
+          "album": "Lage Raho Munna Bhai",
+          "image_url": "https://raag.fm/image/250/1042897/Phir_Kabhi_Shreya_Ghoshal,Sonu_Nigam.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1042897/Pal Pal Har Pal - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Bairi Piya",
+          "album": "Devdas",
+          "image_url": "https://raag.fm/image/250/1113753/Devdas_(OST)_Udit_Narayan,Shreya_Ghoshal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1113753/Bairi Piya - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Chikni Chameli",
+          "album": "And The Award Goes To",
+          "image_url": "https://pagalworld.ink/siteuploads/thumb/sft17/8420_6_resize2x_200x200.webp",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1131786/Chikni%20Chameli%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Gulabi",
+          "album": "Gulabi",
+          "image_url": "https://raag.fm/image/250/23197/Gulabi_Shreya_Ghoshal,Vishal_Mishra.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/23197/Gulabi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Thode Badmash",
+          "album": "Saawariya",
+          "image_url": "https://cdn.jattpendu.com/thumbmed/1045774.jpg",
+          "song_url": "https://cdn.jattpendu.com/download/128k-taam/Thode-Badmash.mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 10,
+      "name": "Amrinder Gill",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Dildarian",
+          "album": "Dildarian",
+          "image_url": "https://tse4.mm.bing.net/th?id=OIP.o3_4Pb4NGlq-2BdaW9g_BAHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://p320.djpunjab.is/data/48/3229/40249/Dildarian%20-%20Amrinder%20Gill.mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Socha Vich Tu",
+          "album": "Socha Vich Tu",
+          "image_url": "https://tse2.mm.bing.net/th?id=OIP.UWq0SNe6KDE9RkyGE4bYVgHaFj&pid=Api&P=0&h=180",
+          "song_url": "https://cdnsongs.com/music/data/Punjabi/201506/Top_30_Punjabi_Songs/128/Sochan_Vich_Tu.mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Ki Samjhaiye",
+          "album": "Judaa 2",
+          "image_url": "https://raag.fm/image/250/1241734/Judaa_Amrinder_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241734/Ki%20Samjiye%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Kora Kujja",
+          "album": "Kora Kujja",
+          "image_url": "https://raag.fm/image/250/25105/Kora_Kujja_Amrinder_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25105/Kora%20Kujja%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Afwaah",
+          "album": "Judaa",
+          "image_url": "https://tse3.mm.bing.net/th?id=OIP.2NBQJCgXofDs265QbLIN4QHaFj&pid=Api&P=0&h=180",
+          "song_url": "https://p320.djpunjab.is/data/48/736/1986/Afwah%20-%20Amrinder%20Gill.mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Khedan De Din",
+          "album": "Yaraan Naal Baharaan",
+          "image_url": "https://raag.fm/image/250/1054426/Yaraan_Naal_Baharaan_Sunidhi_Chauhan,Amrinder_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1054426/Khedan De Din - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Dil Milyan De Mele",
+          "album": "Munde UK De",
+          "image_url": "https://raag.fm/image/250/1969162/Munde_UK_De_Amrinder_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1969162/Dil Milyan De Mele - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Jinde",
+          "album": "Jinde",
+          "image_url": "https://raag.fm/image/250/24774/Jinde_Amrinder_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/24774/Jinde - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Goreyan Nu Daffa Karo",
+          "album": "Goreyan Nu Daffa Karo",
+          "image_url": "https://raag.fm/image/250/1195278/Goreyan-Nu-Daffa-Karo-Amrinder-Gill,Shipra-Goyal.jpg",
+          "song_url": "https://s320.djpunjab.is/data/48/33188/273256/Goreyan%20Nu%20Daffa%20Karo%20-%20Amrinder%20Gill.mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Dildarian",
+          "album": "Dildarian",
+          "image_url": "https://raag.fm/image/250/1152915/Dildarian_Amrinder_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1152915/Dildarian - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Paani Ravi Da",
+          "album": "Paani Ravi Da",
+          "image_url": "https://cover.djpunjab.is/39872/300x700/lahoriye-amrinder-gill.webp",
+          "song_url": "https://p320.djpunjab.is/data/48/39872/283687/Paani%20Ravi%20Da%20-%20Neha%20Bhasin.mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Paigaam Likhe",
+          "album": "Kamli Kudiye",
+          "image_url": "https://tse3.mm.bing.net/th?id=OIP.o7geAo3n5YND1hXlOKZ__wHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/2255422/Paigaam Likhe - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Wakh",
+          "album": "Tu Mera 22 Mein Tera 22",
+          "image_url": "https://raag.fm/image/250/1184791/Tu_Mera_22_Mein_Tera_22_Amrinder_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1184791/Wakh - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Ishq (Club Mix)",
+          "album": "Ishq ",
+          "image_url": "https://raag.fm/image/250/1241731/Ishq-Amrinder-Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241731/Ishq (Club Mix) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Bapu",
+          "album": "Bapu",
+          "image_url": "https://raag.fm/image/250/1474608/Bapu_Amrinder_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1474608/Bapu - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Mil Ke Baithange",
+          "album": "Angrej",
+          "image_url": "https://raag.fm/image/250/1286466/Angrej_Amrinder_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1286466/Mil Ke Baithange - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Tera Mera Naa",
+          "album": "Ik Kudi Punjab Di",
+          "image_url": "https://cover.djpunjab.is/6854/300x700/ik-kudi-punjab-di-amrinder-gill.webp",
+          "song_url": "https://p320.djpunjab.is/data/48/6854/43399/Tera%20Mera%20Na%20-%20Amrinder%20Gill.mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Soorjan Wale",
+          "album": "Soorjan Wale",
+          "image_url": "https://raag.fm/image/250/19104/Soorjan-Wale-Amrinder-Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/19104/Soorjan Wale - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Dil Tutda",
+          "album": "Dil Tutda",
+          "image_url": "https://tse2.mm.bing.net/th?id=OIP.MtoIq7IWuIrjVYtrWTNs3QHaIa&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241731/Dil Tutda - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Daru",
+          "album": "Dildarian",
+          "image_url": "https://raag.fm/image/250/1152915/Dildarian_Amrinder_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1152915/Daru - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 11,
+      "name": "Jass Manak",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Prada",
+          "album": "Prada",
+          "image_url": "https://raag.fm/image/250/13991/Prada-Jass-Manak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/13991/Prada - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Lehanga",
+          "album": "Lehanga Full",
+          "image_url": "https://raag.fm/image/250/15634/Lehanga_Full_Jass_Manak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/15634/Lehanga Full - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Boss",
+          "album": "Boss",
+          "image_url": "https://art.mrjatt.im/image/480175/Boss.jpg",
+          "song_url": "https://cdnsongs.com/music/data/Single_Track/201807/Boss-1/128/Boss_1.mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Viah",
+          "album": "Age 19",
+          "image_url": "https://tse1.mm.bing.net/th?id=OIP.wyKfyjxnsvBJEOAfGxqWcwHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/14672/Viah - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Shopping",
+          "album": "Shopping",
+          "image_url": "https://raag.fm/image/250/17357/Shopping_Jass_Manak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/17357/Shopping - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Rabb Wangu",
+          "album": "Sikander 2",
+          "image_url": "https://raag.fm/image/250/15519/Sikander_2_Jass_Manak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/15519/Rabb Wangu - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Gal Sun From Shooter",
+          "album": "Gal Sun From Shooter",
+          "image_url": "https://raag.fm/image/250/17387/Gal_Sun_From_Shooter_Jass_Manak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/17387/Gal Sun From Shooter - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Munda Manaka Da",
+          "album": "Age 19",
+          "image_url": "https://raag.fm/image/250/14672/Age_19_Jass_Manak,Bohemia.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/14672/Munda Manaka Da - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Bad Munda",
+          "album": "Bad Munda",
+          "image_url": "https://raag.fm/image/250/21516/Bad_Munda_Jass_Manak,Emiway_Bantai.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/21516/Bad Munda - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Addiction",
+          "album": "Love Thunder",
+          "image_url": "https://raag.fm/image/250/23572/Love_Thunder_Jass_Manak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/23572/Addiction%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Boss ",
+          "album": "Boss",
+          "image_url": "https://art.mrjatt.im/image/480175/Boss.jpg",
+          "song_url": "https://cdnsongs.com/music/data/Single_Track/201807/Boss-1/128/Boss_1.mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Lehanga Full",
+          "album": "Lehanga Full",
+          "image_url": "https://raag.fm/image/250/15634/Lehanga_Full_Jass_Manak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/15634/Lehanga Full - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Bachke",
+          "album": "Love Thunder",
+          "image_url": "https://raag.fm/image/250/23572/Love_Thunder_Jass_Manak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/23572/Bachke - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Suit Punjabi",
+          "album": "Suit Punjabi",
+          "image_url": "https://art.mrjatt.im/image/479480/Suit-Punjabi.jpg",
+          "song_url": "https://cdnsongs.com/music/data/Single_Track/201806/Suit_Punjabi/128/Suit_Punjabi_1.mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Love And Lies",
+          "album": "Love And Lies",
+          "image_url": "https://raag.fm/image/250/26180/Love_And_Lies_Jass_Manak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26180/Love And Lies - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "No Competition",
+          "album": "No Competition",
+          "image_url": "https://raag.fm/image/250/18784/No_Competition_Jass_Manak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/18784/No Competition - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Yaariyan",
+          "album": "No Competition",
+          "image_url": "https://raag.fm/image/250/18784/No_Competition_Jass_Manak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/18784/Yaariyan - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Pyar Karda",
+          "album": "Pyar Karda",
+          "image_url": "https://raag.fm/image/250/23156/Pyar_Karda_Jass_Manak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/23156/Pyar Karda - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Moonroof",
+          "album": "Age 19",
+          "image_url": "https://raag.fm/image/250/14672/Age_19_Jass_Manak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/14672/Moonroof - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Venom Love",
+          "album": "Love Thunder",
+          "image_url": "https://raag.fm/image/250/23572/Love_Thunder_Jass_Manak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/23572/Venom Love - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 12,
+      "name": "Babbu Maan",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Hashar",
+          "album": "Hashar: A Love Story",
+          "image_url": "https://raag.fm/image/250/1029664/Hashar:_A_Love_Story%EF%BF%BD_.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1029664/Hashar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Bhangra Paa Laiye",
+          "album": "Lohri-Sundar Mundariye Ho",
+          "image_url": "https://raag.fm/image/250/1148620/Lohri-Sundar_Mundariye_Ho_Babbu_Maan,Sadhana_Sargam,Bhavdeep.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1148620/Bhangra Paa Laiye - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Saaun Di Jhadi",
+          "album": "Saaun Di Jhadi",
+          "image_url": "https://raag.fm/image/250/1148128/Pure_Gold_Punjabi_-_Babbu_Maan_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1148128/Saaun Di Jhadi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Mitti",
+          "album": "Ekam (Son Of Soil)",
+          "image_url": "https://tse2.mm.bing.net/th?id=OIP.3SIQy1iv2oXlVP8wCZwwSgHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://p320.djpunjab.is/data/48/6885/43339/Mitti%20-%20Babbu%20Maan.mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Tere Ishq Ne",
+          "album": "Saaun Di Jhadi",
+          "image_url": "https://raag.fm/image/250/1228070/Saaun_Di_Jhadi_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1228070/Ishq - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Kabza",
+          "album": "Pyass",
+          "image_url": "https://tse4.mm.bing.net/th?id=OIP.qOTQElJ-FCEXrWabUf5VRQHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1148128/Kabza - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Rab Na Kare",
+          "album": "All For LOVE",
+          "image_url": "https://raag.fm/image/250/1078642/All_For_LOVE_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1078642/Rab Na Kare - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Pind Diyan Galliyan",
+          "album": "Pyass",
+          "image_url": "https://raag.fm/image/250/1043966/Pyass_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1043966/Pind Diyan Juhaan - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Lohri",
+          "album": "Lohri",
+          "image_url": "https://raag.fm/image/250/26102/Lohri_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26102/Lohri - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Gypsy",
+          "album": "Khat",
+          "image_url": "https://raag.fm/image/250/25645/Gypsy_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25645/Gypsy - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Mere Dil Vich",
+          "album": "Pyass",
+          "image_url": "https://raag.fm/image/250/1043966/Pyass_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1043966/Mere Dil Vich - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Gavo Sachi Baani",
+          "album": "Gavo Sachi Baani",
+          "image_url": "https://raag.fm/image/250/26030/Gavo_Sachi_Baani_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26030/Gavo Sachi Baani - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Kandh Tapke",
+          "album": "Pyass",
+          "image_url": "https://raag.fm/image/250/1043966/Pyass_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1043966/Kandh Tapke - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Zikar",
+          "album": "Zikar",
+          "image_url": "https://raag.fm/image/250/26058/Zikar_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26058/Zikar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Dil Tan Pagal Hai",
+          "album": "Pure Gold Punjabi - Babbu Maan",
+          "image_url": "https://raag.fm/image/250/1148128/Pure_Gold_Punjabi_-_Babbu_Maan_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1148128/Dil Tan Pagal Hai - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Pind Pehra Lagda",
+          "album": "Tu Meri Miss India",
+          "image_url": "https://raag.fm/image/250/10371365/Tu_Meri_Miss_India_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10371365/Pind Pehra Lagda - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Mittran Di Chhatri",
+          "album": "Virsa - Romance",
+          "image_url": "https://raag.fm/image/250/1149867/Virsa_-_Romance_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1149867/Mittran Di Chhatri - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Dil Tan Pagal Hai",
+          "album": "Virsa - Romance",
+          "image_url": "https://raag.fm/image/250/1149867/Virsa_-_Romance_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1149867/Dil Tan Pagal Hai - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Mehfil Mitraan Di",
+          "album": "Virsa - Dance",
+          "image_url": "https://raag.fm/image/250/1149865/Virsa_-_Dance_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1149865/Mehfil Mitraan Di - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Touch Wood",
+          "album": "Pyar Tere Nu",
+          "image_url": "https://raag.fm/image/250/1150278/Pyar_Tere_Nu_Babbu_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1150278/Touch Wood - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 13,
+      "name": "Sippy Gill",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Genuine Yaar",
+          "album": "Genuine Yaar",
+          "image_url": "https://raag.fm/image/250/11399663/Genuine_Yaar_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/11399663/Genuine Yaar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Godfather",
+          "album": "Godfather",
+          "image_url": "https://raag.fm/image/250/11688816/Godfather_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/11688816/Godfather - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Jatt Kuwara",
+          "album": "Jatt Kuwara",
+          "image_url": "https://raag.fm/image/250/1145295/Jatt_Kuwara_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1145295/Jatt Saari Umar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Red Leaf",
+          "album": "Dus Mint",
+          "image_url": "https://raag.fm/image/250/1207203/Dus_Mint_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1207203/Red Leaf - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Purani Yaari",
+          "album": "Purani Yaari",
+          "image_url": "https://raag.fm/image/250/20730/Purani_Yaari_Babbu_Maan,Jazzy_B.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/20730/Purani%20Yaari%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Shiftaan",
+          "album": "Shiftaan",
+          "image_url": "https://raag.fm/image/250/10151006/Shiftaan_Sippy_Gill,Neetu_Bhalla.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/10151006/Shiftaan - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Naina De Thekay",
+          "album": "Naina De Thekay",
+          "image_url": "https://raag.fm/image/250/18558/Naina_De_Thekay_Sippy_Gill,Afsana_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/18558/Naina De Thekay - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Botlan",
+          "album": "Flower",
+          "image_url": "https://raag.fm/image/250/1145300/Flower_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1145300/Botlan - (Raag.Fm).mp3   "
+        },
+        {
+          "song_id": 9,
+          "title": "Gabroo",
+          "album": "Flower",
+          "image_url": "https://raag.fm/image/250/1145300/Flower_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1145300/Gabroo - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Hathyaar",
+          "album": "Flower",
+          "image_url": "https://raag.fm/image/250/1145300/Flower_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1145300/Hathyaar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Naag",
+          "album": "Flower",
+          "image_url": "https://raag.fm/image/250/1145300/Flower_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1145300/Naag - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Sharaab",
+          "album": "Flower",
+          "image_url": "https://raag.fm/image/250/1145300/Flower_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1145300/Sharaab - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Mouka",
+          "album": "Flower",
+          "image_url": "https://raag.fm/image/250/1145300/Flower_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1145300/Mouka - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Kabootri",
+          "album": "Flower",
+          "image_url": "https://raag.fm/image/250/1145300/Flower_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1145300/Kabootri - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Crazy",
+          "album": "Flower",
+          "image_url": "https://raag.fm/image/250/1145300/Flower_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1145300/Crazy - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "No Chance",
+          "album": "Aura",
+          "image_url": "https://raag.fm/image/250/25912/Aura_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/25912/No Chance - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Gun Shaddow",
+          "album": "Aura",
+          "image_url": "https://raag.fm/image/250/25912/Aura_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/25912/Gun Shaddow - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Soulmate",
+          "album": "Aura",
+          "image_url": "https://raag.fm/image/250/25912/Aura_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25201/Soulmate - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Mahoul",
+          "album": "Aura",
+          "image_url": "https://raag.fm/image/250/25912/Aura_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/24994/Mahoul - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Faraar",
+          "album": "Aura",
+          "image_url": "https://raag.fm/image/250/25912/Aura_Sippy_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/22367/Faraar - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 14,
+      "name": "Satinder Sartaj",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Sai",
+          "album": "Sartaaj",
+          "image_url": "https://raag.fm/image/250/1196025/Sartaaj-Satinder-Sartaaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1196025/Sai%20Ve%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Billo Ji",
+          "album": "Rangrez",
+          "image_url": "https://raag.fm/image/250/1157427/Rangrez_Satinder_Sartaaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1157427/Billo%20Ji%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Udaarianx",
+          "album": "Ikko Mikke",
+          "image_url": "https://raag.fm/image/250/17680/Ikko_Mikke_Satinder_Sartaaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/17680/Udaarian - 2.0 - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Tere Vaastey",
+          "album": "Tere Vaastey",
+          "image_url": "https://raag.fm/image/250/13512/Tere_Vaastey_Satinder_Sartaaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/13512/Tere Vaastey - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Bahuta Sochi'n Na",
+          "album": "Hamza",
+          "image_url": "https://raag.fm/image/250/1287057/Hamza_Satinder_Sartaaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1287057/Bahuta Sochi na - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Jheeley",
+          "album": "Jheeley",
+          "image_url": "https://raag.fm/image/250/25630/Jheeley_Satinder_Sartaaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25630/Jheeley - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Zikar",
+          "album": "Sufism - Collection of Soulful Sufi Songs",
+          "image_url": "https://raag.fm/image/250/1247340/Sufism_-_Collection_of_Soulful_Sufi_Songs_Satinder_Sartaaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1247340/Zikr Tera - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Sajjan Raazi",
+          "album": "Hazaarey Wala Munda",
+          "image_url": "https://raag.fm/image/250/2079956/Hazaarey_Wala_Munda_Satinder_Sartaaj.jpg",
+          "song_url": "//raag.fm/files/mp3/128/Punjabi/2079956/Sajjan Raazi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Tere Pind Wallon",
+          "album": "Rangrez",
+          "image_url": "https://raag.fm/image/250/1157427/Rangrez_Satinder_Sartaaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1157427/Tere Pind Wallo&039;n - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Aakhari Apeel",
+          "album": "Afsaaney Sartaaj De",
+          "image_url": "https://raag.fm/image/250/1142736/Afsaaney_Sartaaj_De_Satinder_Sartaaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1142736/Aakhari%20Apeel%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Main Te Meri Jaan",
+          "album": "Main Te Meri Jaan",
+          "image_url": "https://raag.fm/image/250/13316/Main_Te_Meri_Jaan_Satinder_Sartaaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1142736/Aakhari Apeel - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Meri Heeriye Fakiriye",
+          "album": "Sartaaj",
+          "image_url": "https://raag.fm/image/250/1196025/Sartaaj_Satinder_Sartaaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1196025/Meri Heeriye Fakiriye - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Aadmai",
+          "album": "Cheerey Wala Sartaaj",
+          "image_url": "https://raag.fm/image/250/1241726/Cheerey_Wala_Sartaaj_Satinder_Sartaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241726/Aadmai - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Bale",
+          "album": "Cheerey Wala Sartaaj",
+          "image_url": "https://raag.fm/image/250/1241726/Cheerey_Wala_Sartaaj_Satinder_Sartaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241726/Bale - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Bina",
+          "album": "Cheerey Wala Sartaaj",
+          "image_url": "https://raag.fm/image/250/1241726/Cheerey_Wala_Sartaaj_Satinder_Sartaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241726/Bina - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Dastar",
+          "album": "Cheerey Wala Sartaaj",
+          "image_url": "https://raag.fm/image/250/1241726/Cheerey_Wala_Sartaaj_Satinder_Sartaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241726/Dastar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Daulta",
+          "album": "Cheerey Wala Sartaaj",
+          "image_url": "https://raag.fm/image/250/1241726/Cheerey_Wala_Sartaaj_Satinder_Sartaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241726/Daulta - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Dil",
+          "album": "Cheerey Wala Sartaaj",
+          "image_url": "https://raag.fm/image/250/1241726/Cheerey_Wala_Sartaaj_Satinder_Sartaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241726/Dil - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Ishq",
+          "album": "Cheerey Wala Sartaaj",
+          "image_url": "https://raag.fm/image/250/1241726/Cheerey_Wala_Sartaaj_Satinder_Sartaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241726/Ishq - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Motiyan ChameliHath Diyan Leekan",
+          "album": "Cheerey Wala Sartaaj",
+          "image_url": "https://raag.fm/image/250/1241726/Cheerey_Wala_Sartaaj_Satinder_Sartaj.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241726/Motiyan Chameli - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 15,
+      "name": "Gippy Grewal",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Car Nachdi",
+          "album": "Car Nachdi",
+          "image_url": "https://raag.fm/image/250/12904/T_Series_Mixtape_Gippy_Grewal,_Harrdy_Sandhu,_Neha_Kakkar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/12904/Car%20Nachdi%20Hornn%20Blow%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Angreji Beat",
+          "album": "International Villager",
+          "image_url": "https://raag.fm/image/250/1194906/International_Villager_Yo_Yo_Honey_Singh,Gippy_Grewal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1194906/Angreji Beat - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Phulkari",
+          "album": "Mele Mitran De",
+          "image_url": "https://raag.fm/image/250/10711840/Mele_Mitran_De_Gippy_Grewal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10711840/Phulkari - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Flower",
+          "album": "Desi Rockstar",
+          "image_url": "https://raag.fm/image/250/10130892/Desi-Rockstar-Gippy-Grewal,Raxstar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10130892/Flower - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Huthiyar",
+          "album": "Desi Rockstar",
+          "image_url": "https://raag.fm/image/250/10130892/Desi-Rockstar-Gippy-Grewal,Raxstar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10130892/Huthiyar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Desi Jatt",
+          "album": "Desi Rockstar",
+          "image_url": "https://raag.fm/image/250/10130892/Desi-Rockstar-Gippy-Grewal,Raxstar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10130892/Desi Jatt - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Daang",
+          "album": "Desi Rockstar",
+          "image_url": "https://raag.fm/image/250/10130892/Desi-Rockstar-Gippy-Grewal,Raxstar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10130892/Daang - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Ne Sohniye",
+          "album": "Desi Rockstar",
+          "image_url": "https://raag.fm/image/250/10130892/Desi-Rockstar-Gippy-Grewal,Raxstar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10130892/Ne Sohniye - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": " Ik Kudi",
+          "album": "  Ik Kudi",
+          "image_url": "https://m.media-amazon.com/images/I/51RBT+ncDML.UXNaN_FMjpg_QL85.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/23980/Ik Kudi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Pind Nanke",
+          "album": "2012 Mirza The Untold Story",
+          "image_url": "https://raag.fm/image/250/1158798/2012_Mirza_The_Untold_Story_Gippy_Grewal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1158798/Pind Nanke - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Gang Gang",
+          "album": "Gang Gang",
+          "image_url": "https://c.saavncdn.com/191/Gang-Gang-Punjabi-2024-20240110142742-500x500.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26079/Gang Gang - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Zaalam",
+          "album": "Zaalam",
+          "image_url": "https://raag.fm/image/250/1221801/Zaalam_Gippy_Grewal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1221801/Zaalam - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Dead",
+          "album": "Dead",
+          "image_url": "https://raag.fm/image/250/26155/Dead_Gippy_Grewal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26155/Dead%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Gal Dil Di",
+          "album": "Subedar Joginder Singh",
+          "image_url": "https://raag.fm/image/250/13665/Subedar_Joginder_Singh_Gippy_Grewal,Kulwinder_Billa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/13665/Gal Dil Di - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Qattal",
+          "album": "Desi Rockstar",
+          "image_url": "https://raag.fm/image/250/10130892/Desi_Rockstar_Gippy_Grewal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10130892/Qattal - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Winnipeg",
+          "album": "Winnipeg",
+          "image_url": "https://c.saavncdn.com/469/Winnipeg-Punjabi-2023-20230424154918-500x500.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/24744/Winnipeg - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Till Banke",
+          "album": "Akh Larh Gayi",
+          "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bf/94/d8/bf94d807-8a92-4b6b-9a9f-f32f196c6d2f/8902633278431.jpg/1200x1200bf-60.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241719/Till Banke - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Taveetan",
+          "album": "Akh Larh Gayi",
+          "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bf/94/d8/bf94d807-8a92-4b6b-9a9f-f32f196c6d2f/8902633278431.jpg/1200x1200bf-60.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241719/Taveetan - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Patola",
+          "album": "Akh Larh Gayi",
+          "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bf/94/d8/bf94d807-8a92-4b6b-9a9f-f32f196c6d2f/8902633278431.jpg/1200x1200bf-60.jpg",
+          "song_url": " https://raag.fm/files/mp3/128/Punjabi/1241719/Patola - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Sir Dukhda",
+          "album": "Akh Larh Gayi",
+          "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bf/94/d8/bf94d807-8a92-4b6b-9a9f-f32f196c6d2f/8902633278431.jpg/1200x1200bf-60.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241719/Sir Dukhda - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 16,
+      "name": "Nusrat Fateh Ali Khan",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Afreen Afreen",
+          "album": "Sangam",
+          "image_url": "https://raag.fm/image/250/2009535/Sangam_Nusrat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1064997/Afreen Afreen - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Mere Rashke Qamar",
+          "album": "Kise Da Yaar Na Vichhrey Vol 1",
+          "image_url": "https://raag.fm/image/250/1201285/Kise_Da_Yaar_Na_Vichhrey_Vol_1_Nusrat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1201285/Mere Rashke Qamar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Tumhein Dillagi Bhool Jani",
+          "album": "Greatest Qawwalli Hits",
+          "image_url": "https://raag.fm/image/250/1149071/Greatest_Qawwalli_Hits_Nusrat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1149071/Tumhen Dillagi Bhool - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Kinna Sohna Tainu",
+          "album": "Nusrat Se Rahat Tak",
+          "image_url": "https://raag.fm/image/250/11328089/Nusrat_Se_Rahat_Tak_Nusrat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/11328089/Kinna Sohna Tainu - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Sanu Ek Pal Chain",
+          "album": "Collection Of Memorable Ghazals ",
+          "image_url": "https://raag.fm/image/250/10320986/Collection_Of_Memorable_Ghazals_(Ustad_Nusrat_Fateh_Ali_Khan)_Nusrat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/10320986/Sanu Ek Pal Chain Na Aave - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Dum Mast Qalander",
+          "album": "Greatest Qawwalli Hits",
+          "image_url": "https://raag.fm/image/250/1149071/Greatest_Qawwalli_Hits_Nusrat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1149071/Dum Mast Qalander - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Ye Jo Halka Halka Suroor Hai",
+          "album": "Amazing Qawwali Hits",
+          "image_url": "https://raag.fm/image/250/1233873/Amazing_Qawwali_Hits_Nusrat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1233873/Yeh Jo Halka Halka - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Dam Mast Qalandar",
+          "album": "Amazing Qawwali Hits",
+          "image_url": "https://raag.fm/image/250/1233873/Amazing_Qawwali_Hits_Nusrat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1516459/Dam Mast Qalandar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Ae Jaane Man Jaane Jigar",
+          "album": "Nusrat",
+          "image_url": "https://raag.fm/image/250/1142727/Salaam-Nusrat-Fateh-Ali-Khan-Nusrat-Fateh-Ali-Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1142727/Ae Jaane Man Jaane Jigar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Mera Piya Ghar Aaya",
+          "album": "Nusrat",
+          "image_url": "https://raag.fm/image/250/1142727/Salaam-Nusrat-Fateh-Ali-Khan-Nusrat-Fateh-Ali-Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1142727/Piya Re Piya Re - Revival - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Koi Mera Dil Le Gaya",
+          "album": "Nusrat",
+          "image_url": "https://raag.fm/image/250/1142727/Salaam-Nusrat-Fateh-Ali-Khan-Nusrat-Fateh-Ali-Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1142727/Koi Mera Dil Le Gaya - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Mera Gham Aur Mera Khushi",
+          "album": "Nusrat",
+          "image_url": "https://raag.fm/image/250/1142727/Salaam-Nusrat-Fateh-Ali-Khan-Nusrat-Fateh-Ali-Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1142727/Mera Gham Aur Mera Khushi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Yeh Sham Phir Nahin Aayegi",
+          "album": "Nusrat",
+          "image_url": "https://raag.fm/image/250/1142727/Salaam-Nusrat-Fateh-Ali-Khan-Nusrat-Fateh-Ali-Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1142727/Yeh Sham Phir Nahin Aayegi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Kinna Sohna Tainu",
+          "album": "Nusrat Se Rahat Tak",
+          "image_url": "https://raag.fm/image/250/11328089/Nusrat_Se_Rahat_Tak_Nusrat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/11328089/Kinna Sohna Tainu - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Mast Mast",
+          "album": "Teri Meri Prem Kahaani",
+          "image_url": "https://i.ytimg.com/vi/XTZ0_srUq9k/maxresdefault.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1147617/Tere Mast Mast Do Nain - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Kande Utte",
+          "album": "Kise Nai Teri Jaat Puchhni Vol 3",
+          "image_url": "https://raag.fm/image/250/1201293/Kise_Nai_Teri_Jaat_Puchhni_Vol_3_Nusrat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1201293/Kande Utte Mehrma Ve - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Jism Dhamakta",
+          "album": "Sangam",
+          "image_url": "https://raag.fm/image/250/2009535/Sangam_Nusrat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2009535/Jism Dhamakta - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Sheher Ke Dukandaron",
+          "album": "sangam",
+          "image_url": "https://raag.fm/image/250/2009535/Sangam_Nusrat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2009535/Sheher Ke Dukandaron - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Ab Kya Soche",
+          "album": "Sangam",
+          "image_url": "https://raag.fm/image/250/2009535/Sangam_Nusrat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2009535/Aap Se Milke - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Kinna Sohna Tainu",
+          "album": "Sangam",
+          "image_url": "https://raag.fm/image/250/2009535/Sangam_Nusrat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2009535/Ab Kya Soche - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 17,
+      "name": "Rahat Fateh Ali Khan",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Tere Bin",
+          "album": "Bas Ek Pal",
+          "image_url": "https://raag.fm/image/250/16218/Top_10_Romantic_Hindi_Songs_2019_Rahat_Fateh_Ali_Khan,Asees_Kaur,Tanishk_Bagchi.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/16218/Tere Bin (Simmba) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Dil To Bacha Hai",
+          "album": "Ishqiya",
+          "image_url": "https://raag.fm/image/250/1076649/Bollywood_Heights_-_Rahat_Fateh_Ali_Khan_Rahat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1076649/Dil To Bachcha Hai (Ishqiya) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Jag Ghoomeya",
+          "album": "Sultan",
+          "image_url": "https://imgs.search.brave.com/Y9ri2FxcL76zjOy2_G_JT8rDLHnkJwwMX8m0ZSmG7GI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/aWx5cmljc2h1Yi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDgvamFnLWdo/b29tZXlhLXN1bHRh/bi0zMDB4MTY5Lmpw/Zw",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/10187580/Jag Ghoomeya - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Zaroori Tha",
+          "album": "Back 2 Love",
+          "image_url": "https://raag.fm/image/250/1158946/Back_2_Love_Rahat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1158946/Zaroori Tha - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Aaj Din Chadheya",
+          "album": "All For LOVE",
+          "image_url": "https://raag.fm/image/250/1078642/All_For_LOVE_Rahat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1078642/Aaj Din Chadheya - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Tum Jo Aaye",
+          "album": "Once Upon A Time In Mumbaai",
+          "image_url": "https://raag.fm/image/250/1041609/Once_Upon_A_Time_In_Mumbaai_Rahat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1041609/Tum Jo Aaye Jindagi (Reprise) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "O Re Piya",
+          "album": "Aaja Nachle",
+          "image_url": "https://raag.fm/image/250/1017667/Aaja_Nachle_Rahat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1017667/O Re Piya - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Tere Mast Mast Do Nain",
+          "album": "Dabangg",
+          "image_url": "https://imgs.search.brave.com/fl4sypZjWtUWjqlFzSDrhBCPBEDzdrmCIaZvGSaW0wA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaHVuZ2FtYS5j/b20vYy8xLzZhMS81/MjEvMzc2NDY2LzM3/NjQ2Nl8yMDB4MjAw/LmpwZw",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1147617/Tere Mast Mast Do Nain - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Sajda",
+          "album": "My Name Is Khan",
+          "image_url": "https://raag.fm/image/250/1039844/My_Name_Is_Khan_Shankar_Mahadevan,Richa_Sharma,Rahat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1039844/Sajda - (Raag.Fm).mp3https://example.com/sajda.mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Teri Meri",
+          "album": "Bodyguard",
+          "image_url": "https://raag.fm/image/250/1022667/Bodyguard_Shreya_Ghoshal,Rahat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1022667/Teri Meri (Remix) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Main Jahan Rahoon",
+          "album": "Jeena Jeena",
+          "image_url": "https://raag.fm/image/250/1226860/Jeena_Jeena_-_A_Romantic_Collection_Rahat_Fateh_Ali_Khan,Krishna.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1226860/Main Jahan Rahoon - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Jhoota Tera Pyar",
+          "album": "Jhoota Tera Pyar",
+          "image_url": "https://raag.fm/image/250/26190/Jhoota_Tera_Pyar_Rahat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26190/Jhoota Tera Pyar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Naina",
+          "album": "Manu Loves",
+          "image_url": "https://raag.fm/image/250/1230958/Manu_Loves_Rahat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1230958/Naina - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Rabba Ve",
+          "album": "Mar Gaye Oye Loko",
+          "image_url": "https://raag.fm/image/250/14446/Mar_Gaye_Oye_Loko_Rahat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/14446/Rabba Ve - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Dagabaaz Re",
+          "album": "Dabangg 2",
+          "image_url": "https://imgs.search.brave.com/s3BIillDFbpJY9y_O9n02ntEAyOz2-v8yCaXoaogS9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20va29vbG11/em9uZS5way93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxMi8xMS9S/YWhhdC1GYXRlaC1B/bGktS2hhbi5qcGc_/dz02MTg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/10935282/Dagabaaz Re (Dabangg 2) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Tum Kon Piya",
+          "album": "Tum Kon Piya",
+          "image_url": "https://raag.fm/image/250/2108103/Tum_Kon_Piya_(OST)_Rahat_Fateh_Ali_Khan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/2108103/Tum Kon Piya - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Rataan De Jagrate Katne Pe Gaey Ne",
+          "album": "Rahat Fateh Ali Khan Vol 3",
+          "image_url": "https://raag.fm/image/250/1304096/Best_Of_Rahat_Fateh_Ali_Khan_Vol_3_.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1304096/Rataan De Jagrate Katne Pe Gaey Ne - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Saqiya Mein Aakhia Si",
+          "album": "Rahat Fateh Ali Khan Vol 3",
+          "image_url": "https://raag.fm/image/250/1304096/Best_Of_Rahat_Fateh_Ali_Khan_Vol_3_.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1304096/Saqiya%20Mein%20Aakhia%20Si%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Chad Ariyaan Way Mahiya",
+          "album": "Rahat Fateh Ali Khan Vol 3",
+          "image_url": "https://raag.fm/image/250/1304096/Best_Of_Rahat_Fateh_Ali_Khan_Vol_3_.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1304096/Chad%20Ariyaan%20Way%20Mahiya%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Sheikh Gee Beth Kar",
+          "album": "Rahat Fateh Ali Khan Vol 3",
+          "image_url": "https://raag.fm/image/250/1304096/Best_Of_Rahat_Fateh_Ali_Khan_Vol_3_.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1304096/Sheikh%20Gee%20Beth%20Kar%20-%20(Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 18,
+      "name": "Hans Raj Hans",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Jhanjhar",
+          "album": "Jhanjhar",
+          "image_url": "https://raag.fm/image/250/1032430/Jhanjhar-Hans-Raj-Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1032430/Jhanjhar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Sili Sili Hawa",
+          "album": "Chorni",
+          "image_url": "https://raag.fm/image/250/1024087/Chorni_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1024087/Sili Sili Hawa - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Chorni",
+          "album": "Chorni",
+          "image_url": "https://raag.fm/image/250/1024087/Chorni_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1024087/Chorni - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Nachi Jo Saade Naal",
+          "album": "Lalkare Sheran De",
+          "image_url": "https://raag.fm/image/250/10499943/Lalkare_Sheran_De_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10499943/Nachi Jo Sade Naal - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Silli Silli",
+          "album": "The Knight",
+          "image_url": "https://raag.fm/image/250/1238336/The_Knight_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1238336/Silli Silli - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Chham Chham Roun Ankhiyaan",
+          "album": "Chham Chham Roun Ankhiyaan",
+          "image_url": "https://raag.fm/image/250/1023751/Chham-Chham-Roun-Ankhiyaan-Hans-Raj-Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1023751/Chham Chham Roun Ankhiyaan - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Dil Chori Sada Ho Gaya",
+          "album": "Dil Chori Sada Ho Gaya",
+          "image_url": "https://i.ytimg.com/vi/TFZSIT3Xdbw/maxresdefault.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1149865/Dil Chori Sada Ho Gaya - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Tauba Tauba",
+          "album": "Jhanjhar",
+          "image_url": "https://raag.fm/image/250/1032430/Jhanjhar_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1032430/Tauba Tauba - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Maaen Ni Main",
+          "album": "Sajna De Veray - Punjabi Sad Songs",
+          "image_url": "https://raag.fm/image/250/1900423/Sajna_De_Veray_-_Punjabi_Sad_Songs_Hans_Raj_Hans.jpg",
+          "song_url": "https://example.com/ni_mainu.mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Pind Di Hawa",
+          "album": "Jhanjhar",
+          "image_url": "https://raag.fm/image/250/1032430/Jhanjhar_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1032430/Pind Di Hawa - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Balle Balle",
+          "album": "Punjabi Fusion",
+          "image_url": "https://raag.fm/image/250/1208105/Punjabi_Fusion_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1208105/Balle Balle - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Ankh Lad Gayee",
+          "album": "Jodi No1",
+          "image_url": "https://raag.fm/image/250/1032653/Jodi_No1_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1032653/Ankh Lad Gayee - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Tera Nachna",
+          "album": "Kala Doriya",
+          "image_url": "https://raag.fm/image/250/1033496/Kala_Doriya_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1033496/Tera Nachna - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Deedar Naina Devi Da",
+          "album": "Kanjkan Ch Maa Vasdi",
+          "image_url": "https://raag.fm/image/250/1033813/Kanjkan_Ch_Maa_Vasdi_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1033813/Deedar Naina Devi Da - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Dhola",
+          "album": "Kookh Papihey Wali",
+          "image_url": "https://raag.fm/image/250/1035089/Kookh_Papihey_Wali_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1035089/Dhola - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Maa Vaishnd De Darbar",
+          "album": "Kanjkan Ch Maa Vasdi",
+          "image_url": "https://raag.fm/image/250/1033813/Kanjkan_Ch_Maa_Vasdi_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1033813/Maa Vaishnd De Darbar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Jai Jia Maa Chamunda",
+          "album": "Kanjkan Ch Maa Vasdi",
+          "image_url": "https://raag.fm/image/250/1033813/Kanjkan_Ch_Maa_Vasdi_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1033813/Jai Jia Maa Chamunda - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Hoya Ajj Jagrata",
+          "album": "Kanjkan Ch Maa Vasdi",
+          "image_url": "https://raag.fm/image/250/1033813/Kanjkan_Ch_Maa_Vasdi_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1033813/Hoya Ajj Jagrata - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Khali Dil Nahin Jaan",
+          "album": "Kachche Dhaage",
+          "image_url": "https://raag.fm/image/250/1033240/Kachche_Dhaage_Hans_Raj_Hans,Alka_Yagnik.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1033240/Khali Dil Nahin Jaan - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Naam Maa Chintpurni Da",
+          "album": "Kanjkan Ch Maa Vasdi",
+          "image_url": "https://raag.fm/image/250/1033813/Kanjkan_Ch_Maa_Vasdi_Hans_Raj_Hans.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1033813/Naam Maa Chintpurni Da - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 19,
+      "name": "Jazzy B",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Mitran De Boot",
+          "album": "Mitran De Boot",
+          "image_url": "https://raag.fm/image/250/1201457/Mitran_De_Boot_Jazzy_B,Kaur_B.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1201457/Mitran%20De%20Boot%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Jine Mera Dil Luteya",
+          "album": "Jine Mera Dil Luteya",
+          "image_url": "https://raag.fm/image/250/1045327/Romeo_Jazzy_B.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1045327/Dil%20Lutiya%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Naag",
+          "album": "Folk N Funky 2",
+          "image_url": "https://img.youtube.com/vi/BQXZfv1fnA4/sddefault.jpg",
+          "song_url": "https://cdnsongs.com/mrisky/data2/Punjabi/201510/The_Very_Best_Of_Jazzy_B/128/Naag.mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Hathkaddian",
+          "album": "Ustad Ji King Forever",
+          "image_url": "https://raag.fm/image/250/26513/Ustad_Ji_King_Forever_Jazzy_B.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/26513/Hathkaddian%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Rabb Rakhe Sukh",
+          "album": "Ustad Ji King Forever",
+          "image_url": "https://raag.fm/image/250/26513/Ustad_Ji_King_Forever_Jazzy_B.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/26513/Rabb%20Rakhe%20Sukh%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Londono Patola",
+          "album": "Londono Patola",
+          "image_url": "https://raag.fm/image/250/10170247/Folk_N_Funky_2_Jazzy_B.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10170247/Londono%20Patola%20Reloaded%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Gabru",
+          "album": "Gabru",
+          "image_url": "https://cdn.jattpendu.com/thumbmed/1217316.jpg",
+          "song_url": "https://p320.djpunjab.is/data/48/5126/48708/Gabru%20-%20Jazzy%20B%20-%20Various.mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Dil Lutiya",
+          "album": "Dil Lutiya",
+          "image_url": "https://tse2.mm.bing.net/th?id=OIP.UnO02uyyxvLsVG31cTIbDwHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://paglasongs.com/files/download/id/12213"
+        },
+        {
+          "song_id": 9,
+          "title": "Tera Roop",
+          "album": "Tera Roop",
+          "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/df/e9/cb/dfe9cb25-0cb4-7022-0742-b76377237ac9/8901854015023.png/400x400cc.jpg",
+          "song_url": "https://p320.djpunjab.is/data/48/3591/23473/Tera%20Roop%20-%20Jazzy%20B.mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Bach Ke",
+          "album": "Bach Ke",
+          "image_url": "https://cdn.jattpendu.com/thumbmed/1047032.jpg",
+          "song_url": "https://p320.djpunjab.is/data/48/3591/23472/Bachke%20-%20Jazzy%20B.mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Dil Ajj Kal",
+          "album": "Dil Ajj Kal",
+          "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/59/56/83/59568385-880b-dcba-56a7-57198eed7c79/cover.jpg/400x400cc.jpg",
+          "song_url": "https://p320.djpunjab.is/data/48/3603/11948/Dil%20-%20Jazzy%20B.mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Door",
+          "album": "Romeo",
+          "image_url": "https://raag.fm/image/250/1045327/Romeo_Jazzy_B.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1045327/Door%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Mitraan De Naa Karde",
+          "album": "Mitraan De Naa Karde",
+          "image_url": "https://raag.fm/image/250/10170247/Folk_N_Funky_2_Jazzy_B.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10170247/Vair Mittran Na - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Kee Kariye",
+          "album": "Kee Kariye",
+          "image_url": "https://cdn.jattpendu.com/thumbmed/1047032.jpg",
+          "song_url": "https://p320.djpunjab.is/data/48/3561/35413/Oh%20Kehri%20-%20Jazzy%20B.mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Lengha",
+          "album": "Lengha",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWClifaJvIP8LFZCmyisYKzCgl72A0aR8XT2EVrxlKzSP7VSckBdao0Qo&s=10",
+          "song_url": "https://p320.djpunjab.is/data/48/3590/8218/Door%20-%20Jazzy%20B.mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Maharajas",
+          "album": "Maharajas",
+          "image_url": "https://covers.djpunjab.pro/image/12250/Maharaja-1.jpg",
+          "song_url": "https://cdnsongs.com/music/data/Punjabi/201403/Real_Badshah_CD_1/128/Maharaja_3.mp3"
+        },
+  
+        {
+          "song_id": 17,
+          "title": "Dil Mangdi",
+          "album": "Dil Mangdi",
+          "image_url": "https://tse4.mm.bing.net/th?id=OIP.vE4NtFgCFHJXlJR0K54KUQHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://dl2.djring.com/sd2.djjohal.com/128/502529/(DJJOhAL.Com).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Maa Boli",
+          "album": "Maa Boli",
+          "image_url": "https://covers.djpunjab.pro/image/483239/Maa-Boli-1.jpg",
+          "song_url": "https://cdnsongs.com/music/data/Single_Track/201902/Maa_Boli/128/Maa_Boli_1.mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 20,
+      "name": "Kailash Kher",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Teri Deewani",
+          "album": "Kailasa",
+          "image_url": "https://pagalsongs.com.in/siteuploads/thumb/sft12/5662_7.webp",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2288430/Teri%20Deewani%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Allah Ke Bande",
+          "album": "Waisa Bhi Hota Hai Part II",
+          "image_url": "https://tse4.mm.bing.net/th?id=OIP.FnNrBmEJ8OJPRkJlryriEQHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2288430/Allah%20Ke%20Bande%20(Live)%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Saiyaan",
+          "album": "Kailasa",
+          "image_url": "https://covers.djpunjab.pro/image/4278/Saiyyan-1.jpg",
+          "song_url": "https://cdnsongs.com/music/data/Punjabi/201403/Sartaz_E_Sufi_CD_1/128/Saiyyan_7.mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Bam Lahiri",
+          "album": "Kailasa Jhoomo Re",
+          "image_url": "https://hindi.djpunjab.app/cover/Z6o_pE3r-6FVtdWpwX0Qzg==/kailash-kher-silsilay-cover-image.webp",
+          "song_url": "https://hindi.djpunjab.app/load/P5GPbHX2S41GBptFVyOt0w==/Bam%20Lahiri.mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Ya Rabba",
+          "album": "Salaam-E-Ishq",
+          "image_url": "https://tse2.mm.bing.net/th?id=OIP.quEP62FYa1Py04R8CnqmawHaEK&pid=Api&P=0&h=180",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/11103915/Ya%20Rabba%20(Salaam-E-Ishq)%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Jeetega Phirse India Mera",
+          "album": "Jeetega Phirse India Mera",
+          "image_url": "https://raag.fm/image/250/21528/Jeetega_Phirse_India_Mera_Kailash_Kher.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/21528/Jeetega%20Phirse%20India%20Mera%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Ve Sajjna",
+          "album": "Saak",
+          "image_url": "https://raag.fm/image/250/15939/Saak_Kailash_Kher.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/15939/Ve%20Sajjna%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Rahiman",
+          "album": "Shukranu",
+          "image_url": "https://raag.fm/image/250/17899/Shukranu_Kailash_Kher.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/17899/Rahiman%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Toot Gyi Dor Koi",
+          "album": "Its My Life",
+          "image_url": "https://raag.fm/image/250/19721/Its_My_Life_Kailash_Kher.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/19721/Toot%20Gyi%20Dor%20Koi%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Bandeh",
+          "album": "Bandeh",
+          "image_url": "https://raag.fm/image/250/20555/Bandeh_Kailash_Kher.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/20555/Bandeh%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Tauba Tauba",
+          "album": "Kaal",
+          "image_url": "https://cdn.jattpendu.com/thumbmed/2288430.jpg",
+          "song_url": "https://cdn.jattpendu.com/download/128k-aoujo/Tauba-Tauba.mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Babam Bam",
+          "album": "Masti",
+          "image_url": "https://pagalfree.com/images/128Babam%20Bam%20-%20Paradox%20128%20Kbps.jpg",
+          "song_url": "https://pagalfree.com/musics/128-Babam Bam - Paradox 128 Kbps.mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Yatra",
+          "album": "Yatra",
+          "image_url": "https://covers.djpunjab.pro/image/8377/Yatra-Shri-Manimahesh-1.jpg",
+          "song_url": "https://cdnsongs.com/music/data/Bhakti_Sangeet/201403/Yatra_Shri_Manimahesh/128/Yatra_Shri_Manimahesh_1.mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Albeliya",
+          "album": "Dil Kya Kare",
+          "image_url": "https://hindi.djpunjab.app/cover/yXP7UACCiUBeMEmd83q2Bg==/rangeele-cover-image.webp",
+          "song_url": "https://hindi.djpunjab.app/load/9796RFk6BCfCUjcDmoIQDA==/Albeliya.mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Alvida",
+          "album": "Life in a Metro",
+          "image_url": "https://pagalnew.com/coverimages/Alvida-Dasvidaniya-The-Best-Goodbye-Ever-500-500.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1209982/Alvida%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Piya Ghar Aavenge",
+          "album": "Coke Studio Season 3: Episode 1",
+          "image_url": "https://hindi.djpunjab.app/cover/Z6o_pE3r-6FVtdWpwX0Qzg==/kailash-kher-silsilay-cover-image.webp",
+          "song_url": "https://hindi.djpunjab.app/load/1BZMR5CQWHqR8z7YmUk3og==/Piya%20Ghar%20Aavenge.mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Ya Rabba",
+          "album": "Phir Milenge",
+          "image_url": "https://raag.fm/image/250/1046440/Salaam-E-Ishq_Kailash_Kher.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1046440/Ya%20Rabba%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "O Jogi",
+          "album": "Kailasa Ishq Anokha",
+          "image_url": "https://raag.fm/image/250/2009533/Kailasa_Ishq_Anokha_Kailash_Kher.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2009533/O%20Jogi%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Dhindora",
+          "album": "Dhindora",
+          "image_url": "https://raag.fm/image/250/21915/Dhindora_Kailash_Kher.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/21915/Dhindora%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Chand Sifarish",
+          "album": "Fanaa",
+          "image_url": "https://raag.fm/image/250/1132388/Chand_Sifarish_Hits_Of_Aamir_Khan_Kailash_Kher,Shaan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1132388/Chand%20Sifarish%20-%20(Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 21,
+      "name": "Hardy Sandhu",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Soch",
+          "album": "Soch",
+          "image_url": "https://raag.fm/image/250/1150278/Pyar_Tere_Nu_Hardy_Sandhu.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1150278/Soch%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Naah Goriye",
+          "album": "Bala",
+          "image_url": "https://raag.fm/image/250/16744/Bala_Harrdy_Sandhu,B_Praak,Swasti_Mehul.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/16744/Naah%20Goriye%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Backbone",
+          "album": "Backbone",
+          "image_url": "https://raag.fm/image/250/3244768/Backbone_Harrdy_Sandhu.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/3244768/Backbone%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Horn Blow",
+          "album": "Horn Blow",
+          "image_url": "https://raag.fm/image/250/2176413/Hornn_Blow_Hardy_Sandhu.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/2176413/Hornn%20Blow%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Joker",
+          "album": "Joker",
+          "image_url": "https://raag.fm/image/250/1202422/Joker_Hardy_Sandhu.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1202422/Joker%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Kya Baat Ay",
+          "album": "Kya Baat Ay",
+          "image_url": "https://raag.fm/image/250/23967/Kyaa_Baat_Haii_2.0_Harrdy_Sandhu,Nikhita_Gandhi.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/23967/Kyaa%20Baat%20Haii%202.0%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Yaar Ni Milyaa",
+          "album": "Yaar Ni Milyaa",
+          "image_url": "https://raag.fm/image/250/11448551/Yaarr_Ni_Milyaa_Hardy_Sandhu,B_Praak,Jaani.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/11448551/Yaarr%20Ni%20Milyaa%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Naa Ji Naa",
+          "album": "Naa Ji Naa",
+          "image_url": "https://raag.fm/image/250/1223906/Naa_Ji_Naa_Hardy_Sandhu.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1223906/Naa%20Ji%20Naa%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Soch Na Sake-Sab Tera",
+          "album": "T-Series Mixtape",
+          "image_url": "https://raag.fm/image/250/10996876/T-Series_Mixtape_Neeti_Mohan,Hardy_Sandhu.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/10996876/Soch%20Na%20Sake-Sab%20Tera%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Kudiyan Lahore Diyan",
+          "album": "Kudiyan Lahore Diyan",
+          "image_url": "https://raag.fm/image/250/22864/Kudiyan_Lahore_Diyan_Hardy_Sandhu.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/22864/Kudiyan%20Lahore%20Diyan%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Naah",
+          "album": "Naah",
+          "image_url": "https://raag.fm/image/250/12813/Naah_Hardy_Sandhu.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/12813/Naah%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Dance Like",
+          "album": "Dance Like",
+          "image_url": "https://raag.fm/image/250/16918/Dance_like_Hardy_Sandhu.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/16918/Dance%20Like%20-%20(Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 22,
+      "name": "Badshah",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "DJ Waley Babu",
+          "album": "DJ Waley Babu",
+          "image_url": "https://raag.fm/image/250/1297076/Dj_Waley_Babu_Badshah,Badshah.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/1297076/Dj%20Waley%20Babu%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Mercy",
+          "album": "Mercy",
+          "image_url": "https://raag.fm/image/250/10519309/Mercy_Badshah.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/10519309/Mercy%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Paagal",
+          "album": "Paagal",
+          "image_url": "https://raag.fm/image/250/15499/Paagal_Badshah.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/15499/Paagal%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Heartless",
+          "album": "Heartless",
+          "image_url": "https://raag.fm/image/250/14444/ONE_(Original_Never_Ends)_Badshah,Aastha_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/14444/Heartless%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Genda Phool",
+          "album": "Genda Phool",
+          "image_url": "https://raag.fm/image/250/18526/Genda_Phool_Pahari_Version_Badshah,Priyanka_Meher,Rongpaz.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/18526/Genda%20Phool%20Pahari%20Version%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "She Move It Like",
+          "album": "ONE",
+          "image_url": "https://raag.fm/image/250/14444/ONE_(Original_Never_Ends)_Badshah.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/14444/She%20Move%20It%20Like%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Tareefan",
+          "album": "Veere Di Wedding",
+          "image_url": "https://imgs.search.brave.com/4ECR4IHaLkSgUNt9GKoN3-CgsTt2VqcII-vZ1-_v38I/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/d3luay5pbi91bnNh/ZmUvMjIweDIyMC9m/aWx0ZXJzOm5vX3Vw/c2NhbGUoKTpzdHJp/cF9leGlmKCk6Zm9y/bWF0KHdlYnApL2h0/dHA6Ly9zMy5hcC1z/b3V0aC0xLmFtYXpv/bmF3cy5jb20vZGlz/Y292ZXJ5LXByb2Qt/emlvbi96aW9uLzE2/OTY0NTI2MTMxODkt/YmFkc2hhaC5wbmc",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/26378/Tareefan%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Proper Patola",
+          "album": "Proper Patola",
+          "image_url": "https://raag.fm/image/250/3170503/Proper-Patola-Diljit-Dosanjh,Badshah.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/3170503/Proper%20Patola%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Abhi Toh Party Shuru Hui Hai",
+          "album": "Khoobsurat",
+          "image_url": "https://imgs.search.brave.com/iI9lIB1E_NLifTmWwSC8YG_ZdUzbWzJI3Tr_x6nu1II/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/aGluZGl0cmFja3Mu/aW4vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTQvMDgvYWJoaS10/by1wYXJ0eS1zaHVy/dS1seXJpY3MuanBn",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/2369977/Abhi%20Toh%20Party%20Shuru%20Hui%20Hai%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "The Humma Song",
+          "album": "OK Jaanu",
+          "image_url": "https://imgs.search.brave.com/whJASVwZJdMJvxG9enTiier25_LoXSy3qP0oNZKmXwk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/d3luay5pbi91bnNh/ZmUvMjQ4eDI0OC9m/aWx0ZXJzOm5vX3Vw/c2NhbGUoKTpzdHJp/cF9leGlmKCk6Zm9y/bWF0KHdlYnApL2h0/dHA6Ly9zMy5hcC1z/b3V0aC0xLmFtYXpv/bmF3cy5jb20vd3lu/ay1tdXNpYy1jbXMv/c3JjaF9zb255bXVz/aWMvQTEwMzAxQTAw/MDM2Njg0NDZXXzIw/MjMwMjAzMDkwMzM5/NjUzLzE2NzU0MTI0/MjMyODAvcmVzb3Vy/Y2VzL0ExMDMwMUEw/MDAzNjY4NDQ2Vy5q/cGc",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/3250990/The%20Humma%20Song%20(OK%20Jaanu)%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Kar Gayi Chull",
+          "album": "Kapoor & Sons",
+          "image_url": "https://imgs.search.brave.com/tNommdiRq4701hb_XdQTRlpsw7-ocxVgGPMTK1Jboxo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9yYWRp/by5jYWxsbWVmcmVk/LmNvbS9lbi93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMy8wNS9m/aW5hbF9jb3Zlci1L/YXItR2F5aS1DaHVs/bC1CYWRzaGFoLmpw/Zw",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/10341965/Kar%20Gayi%20Chull%20(Kapoor%20And%20Sons%20(Since%201921))%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Bad Boy",
+          "album": "Bad Boy",
+          "image_url": "https://raag.fm/image/250/21761/Bad-Boy-x-Bad-Girl-Badshah,Nikhita-Gandhi.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/21761/Bad%20Boy%20x%20Bad%20Girl%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Paani Paani",
+          "album": "Kapoor & Sons",
+          "image_url": "https://raag.fm/image/250/21009/Paani_Paani_Badshah,Aastha_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/21009/Paani%20Paani%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Move Your Lakk",
+          "album": "Noor",
+          "image_url": "https://raag.fm/image/250/12974/Move_Your_Lakk_Remix_Sonakshi_Sinha,_Badshah,_Diljit_Dosanjh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/12974/Move%20Your%20Lakk%20Remix%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Zaalim",
+          "album": "Zaalim",
+          "image_url": "https://raag.fm/image/250/26433/Zaalim_Badshah,Payal_Dev.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/26433/Zaalim%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Jugnu",
+          "album": "One",
+          "image_url": "https://raag.fm/image/250/22038/Jugnu_Badshah,Nikhita_Gandhi.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/22038/Jugnu%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Take Your Sandals Off",
+          "album": "Club Night Hits",
+          "image_url": "https://raag.fm/image/250/2124210/Club_Night_Hits_Girik_Aman,Badshah.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/2124210/Take%20Your%20Sandals%20Off%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Wakhra Swag",
+          "album": "Wakhra Swag",
+          "image_url": "https://raag.fm/image/250/1463004/Wakhra_Swag_Navv_Inder,Badshah.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1463004/Wakhra%20Swag%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Driving Slow",
+          "album": "MTV Spoken Word 2",
+          "image_url": "https://raag.fm/image/250/2548328/Driving_Slow_Badshah.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/2548328/Driving%20Slow%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Players",
+          "album": "Jazbaa",
+          "image_url": "https://imgs.search.brave.com/eMyITfNc3n62yyFBhER7aBeVjeYQSyQjYt4Hb_c44ts/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9seXJp/Y3NyYWFnLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/Mi9QbGF5ZXJzLUx5/cmljcy1UcmFuc2xh/dGlvbi1CYWRzaGFo/LURldmlrYS1CYWR5/YWwtS2FyYW4tQXVq/bGEuanBn",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/24079/Players%20-%20(Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 23,
+      "name": "B Praak",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Filhaal",
+          "album": "Filhaal",
+          "image_url": "https://raag.fm/image/250/16710/Filhall_B_Praak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/16710/Filhall%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Mann Bharrya",
+          "album": "Mann Bharrya",
+          "image_url": "https://raag.fm/image/250/10444685/Mann_Bharrya_B_Praak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/10444685/Mann%20Bharrya%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Dil Tod Ke",
+          "album": "Dil Tod Ke",
+          "image_url": "https://raag.fm/image/250/18477/Dil_Tod_Ke_B_Praak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/18477/Dil%20Tod%20Ke%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Ik Mili Mainu Apsraa",
+          "album": "Ik Mili Mainu Apsraa",
+          "image_url": "https://raag.fm/image/250/22484/Ik_Mili_Mainu_Apsraa_B_Praak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/22484/Ik%20Mili%20Mainu%20Apsraa%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Baarish Ki Jaaye",
+          "album": "Baarish Ki Jaaye",
+          "image_url": "https://raag.fm/image/250/20407/Baarish-Ki-Jaaye-B-Praak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/20407/Baarish%20Ki%20Jaaye%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Saari Duniya Jalaa Denge",
+          "album": "Animal",
+          "image_url": "https://imgs.search.brave.com/1xFoKN1QjwHeGeTz7ek-wkXILgjufjdp2rQrRALCnRg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jLnNh/YXZuY2RuLmNvbS8w/OTIvQU5JTUFMLUhp/bmRpLTIwMjMtMjAy/MzExMjQxOTEwMzYt/NTAweDUwMC5qcGc",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/25817/Saari%20Duniya%20Jalaa%20Denge%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Salooqh",
+          "album": "From Moh",
+          "image_url": "https://raag.fm/image/250/23490/Salooq_From_Moh_B_Praak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/23490/Salooq%20From%20Moh%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Jeetenge",
+          "album": "Mission Raniganj",
+          "image_url": "https://imgs.search.brave.com/IFh0ko2I0fDltN7kGfK4mfbIoYn51bFBhapxoEOdUMI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/d3luay5pbi91bnNh/ZmUvMjIweDIyMC9m/aWx0ZXJzOm5vX3Vw/c2NhbGUoKTpzdHJp/cF9leGlmKCk6Zm9y/bWF0KHdlYnApL2h0/dHA6Ly9zMy5hcC1z/b3V0aC0xLmFtYXpv/bmF3cy5jb20vZGlz/Y292ZXJ5LXByb2Qt/emlvbi96aW9uLzE2/OTY0NTI1OTY0MTAt/Ql9QcmFhay5wbmc",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/25419/Jeetenge%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "kya Loge Tum",
+          "album": "kya Loge Tum",
+          "image_url": "https://imgs.search.brave.com/WuodwnsUMJxuOxQsBy8U6TIJ6tLZeT1jxbHgeHccik8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/cGFnYWx3b3JsZC5v/bmxpbmUvR3BFMzRL/ZzlHcS8xMTM2MDQv/MTUxNDUxLWt5YS1s/b2dlLXR1bS1iLXBy/YWFrLW1wMy1zb25n/LTMwMC5qcGc",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/24844/Kya%20Loge%20Tum%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Besharam Bewaffa",
+          "album": "Besharam Bewaffa",
+          "image_url": "https://raag.fm/image/250/19572/Besharam_Bewaffa_B_Praak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/19572/Besharam%20Bewaffa%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Koi Fariyaad",
+          "album": "Koi Fariyaad",
+          "image_url": "https://raag.fm/image/250/18131/Koi_Fariyaad_B_Praak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/18131/Koi%20Fariyaad%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Ishq Nahi Karte",
+          "album": "Ishq Nahi Karte",
+          "image_url": "https://raag.fm/image/250/22820/Ishq_Nahi_Karte_B_Praak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/22820/Ishq%20Nahi%20Karte%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Jhaanjar",
+          "album": "Jhaanjar",
+          "image_url": "https://raag.fm/image/250/23618/Jhaanjar_B_Praak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/23618/Jhaanjar%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Aa Chaliye ",
+          "album": "Aa Chaliye From Honeymoon",
+          "image_url": "https://raag.fm/image/250/23671/Aa_Chaliye_From_Honeymoon_B_Praak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/23671/Aa%20Chaliye%20From%20Honeymoon%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Chum Chum Rakheya",
+          "album": "Chum Chum Rakheya",
+          "image_url": "https://raag.fm/image/250/23725/Chum_Chum_Rakheya_B_Praak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/23725/Chum%20Chum%20Rakheya%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Roohedaariyaan",
+          "album": "Roohedaariyaan",
+          "image_url": "https://raag.fm/image/250/23764/Roohedaariyaan_B_Praak,Neeti_Mohan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/23764/Roohedaariyaan%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Aadha Main Aadhi Vo",
+          "album": "Aadha Main Aadhi Vo",
+          "image_url": "https://raag.fm/image/250/24580/Aadha_Main_Aadhi_Vo_B_Praak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi-Singles/24580/Aadha%20Main%20Aadhi%20Vo%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Farishtey",
+          "album": "Farishtey From Carry On Jatta 3",
+          "image_url": "https://raag.fm/image/250/24760/Farishtey_From_Carry_On_Jatta_3_B_Praak.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/24760/Farishtey%20From%20Carry%20On%20Jatta%203%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Parindey",
+          "album": "Parindey",
+          "image_url": "https://cover.djpunjab.is/55091/300x700/parindey-b-praak.webp",
+          "song_url": "https://s320.djpunjab.is/data/48/55091/303854/Parindey%20-%20B%20Praak.mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Zohrajabeen",
+          "album": "Zohrajabeen",
+          "image_url": "https://cover.djpunjab.is/54087/300x700/zohrajabeen-b-praak.webp",
+          "song_url": "https://p320.djpunjab.is/data/48/54087/302433/Zohrajabeen%20-%20B%20Praak.mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 24,
+      "name": "Ninja",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Aadat",
+          "album": "Aadat",
+          "image_url": "https://raag.fm/image/250/2246809/Aadat_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/2246809/Aadat%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Pindaan Wale Jatt",
+          "album": "Pindaan Wale Jatt",
+          "image_url": "https://raag.fm/image/250/1185034/Ninja_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1185034/Pindaan%20Wale%20Jatt%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Evergreen",
+          "album": "Evergreen",
+          "image_url": "https://raag.fm/image/250/1705691/Evergreen_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1705691/Evergreen%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "License",
+          "album": "License",
+          "image_url": "https://raag.fm/image/250/2477314/License_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/2477314/License%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Roi Na",
+          "album": "Shiddat",
+          "image_url": "https://art.mrjatt.im/image/40482/Roi-Na-Shiddat.jpg",
+          "song_url": "https://cdnsongs.com/music/data/Single_Track/201711/Roi_Na_Shiddat/128/Roi_Na_Shiddat_1.mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Gal Jattan Wali",
+          "album": "Evergreen",
+          "image_url": "https://raag.fm/image/250/2246807/Gal_Jattan_Wali_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/2246807/Gal%20Jattan%20Wali%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Jatt Nikle",
+          "album": "Jatt Nikle",
+          "image_url": "https://raag.fm/image/250/20385/Jatt_Nikle_Ninja,Shipra_Goyal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/20385/Jatt%20Nikle%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Tere Bin",
+          "album": "Tere Bin",
+          "image_url": "https://raag.fm/image/250/16527/Tere_Bin_From_Ardab_Mutiyaran_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/16527/Tere%20Bin%20From%20Ardab%20Mutiyaran%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Nakhra",
+          "album": "Nakhra",
+          "image_url": "https://raag.fm/image/250/14618/Blackia_Movie_Ninja_,_Gurlez_Akhtar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/14618/Nakhra%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Dil",
+          "album": "Dil",
+          "image_url": "https://raag.fm/image/250/3248386/Non_Stop_Hits_Of_2016_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/3248386/Dil%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Gabru Da Naam",
+          "album": "Gabru Da Naam",
+          "image_url": "https://raag.fm/image/250/25614/Gabru_Da_Naam_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25614/Gabru%20Da%20Naam%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Chor",
+          "album": "Chor",
+          "image_url": "https://raag.fm/image/250/17544/Chor_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/17544/Chor%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Flying Cars",
+          "album": "Evergreen",
+          "image_url": "https://raag.fm/image/250/1705691/Evergreen_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1705691/Flying%20Cars%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Dj Waley Da Kasoor",
+          "album": "Evergreen",
+          "image_url": "https://raag.fm/image/250/1705691/Evergreen_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1705691/Dj%20Waley%20Da%20Kasoor%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Kalla Changa",
+          "album": "Kalla Changa",
+          "image_url": "https://art.mrjatt.im/image/486858/Kalla-Changa.jpg",
+          "song_url": "https://cdnsongs.com/music/data/Single_Track/201911/Kalla_Changa/128/Kalla_Changa_1.mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Khauf",
+          "album": "Zindagi Zindabaad",
+          "image_url": "https://raag.fm/image/250/25571/Zindagi_Zindabaad_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/25571/Khauf%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Yaari Badkaari",
+          "album": "Yaari Badkaari",
+          "image_url": "https://raag.fm/image/250/25152/Raja_Rani_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25152/Raja%20Rani%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Bijli",
+          "album": "Bijli",
+          "image_url": "https://raag.fm/image/250/26332/Bijli_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26332/Bijli%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Thokda Reha",
+          "album": "Thokda Reha",
+          "image_url": "https://raag.fm/image/250/25566/Kurte_Te_Mor_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25566/Kurte%20Te%20Mor%20-%20(Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Safa Pyar Da",
+          "album": "Safa Pyar Da",
+          "image_url": "https://raag.fm/image/250/25986/Safa_Pyar_Da_Ninja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25986/Safa%20Pyar%20Da%20-%20(Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 25,
+      "name": "Miss Pooja",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Sohnea",
+          "album": "Sohnea",
+          "image_url": "https://raag.fm/image/250/10552541/Sohnea_Miss_Pooja,Milind_Gaba.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/10552541/Sohnea - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Pasand",
+          "album": "Pasand",
+          "image_url": "https://raag.fm/image/250/10023589/Pasand_(feat_DJ_Dips)_Miss_Pooja,Dj_Dips.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/10023589/Pasand (feat. DJ Dips) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Baari Baari Barsi",
+          "album": "Baari Baari Barsi",
+          "image_url": "https://raag.fm/image/250/12502/Baari_Baari_Barsi_Miss_Pooja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/12502/Baari Baari Barsi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Jija Sali",
+          "album": "Jija Sali",
+          "image_url": "https://raag.fm/image/250/22013/Jija_Sali_Feroz_Khan,Miss_Pooja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/22013/Jija Sali - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Jeeeju",
+          "album": "Jeeeju",
+          "image_url": "https://raag.fm/image/250/11897356/Jeeeju_Miss_Pooja,Harish_Verma.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/11897356/Jeeeju - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Dimaag Khraab",
+          "album": "Dimaag Khraab",
+          "image_url": "https://c.saavncdn.com/452/Dimaag-Khraab-Punjabi-2016-500x500.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1766070/Dimaag Khraab - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "College",
+          "album": "Tere Naa",
+          "image_url": "https://raag.fm/image/250/1051163/Tere_Naa_Miss_Pooja,S._B._Armaan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Hindi/1051163/College - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Diamond Koka",
+          "album": "Diamond Koka",
+          "image_url": "https://raag.fm/image/250/26144/Diamond_Koka_Miss_Pooja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26144/Diamond Koka - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Daru",
+          "album": "Party With Pooja Vol4",
+          "image_url": "https://raag.fm/image/250/1227921/Party_With_Pooja_Vol4_Miss_Pooja,Gurvinder_Brar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1227921/Daaru - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Wangan",
+          "album": "Wangan",
+          "image_url": "https://raag.fm/image/250/25756/Wangan_Miss_Pooja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25756/Wangan - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Parde Mein Rehne Do",
+          "album": "Parde Mein Rehne Do",
+          "image_url": "https://cdn.jattpendu.com/thumbmed/12051769.jpg",
+          "song_url": "https://cdn7.jattpendu.com/download/128k-drxry/Parde-Mein-Rehne-Do.mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Sohneya Sajna",
+          "album": "Sohneya Sajna",
+          "image_url": "https://raag.fm/image/250/10552541/Sohnea_Miss_Pooja,Milind_Gaba.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/10552541/Sohnea - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Follow Karda",
+          "album": "Follow Karda",
+          "image_url": "https://raag.fm/image/250/25360/Follow_Karda_Miss_Pooja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25360/Follow Karda - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Case",
+          "album": "Case",
+          "image_url": "https://raag.fm/image/250/25058/Case_Inderpal_Moga,Miss_Pooja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25058/Case - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Killer Queen",
+          "album": "Killer Queen",
+          "image_url": "https://raag.fm/image/250/20103/Killer_Queen_Miss_Pooja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/20103/Killer Queen - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Makkhi",
+          "album": "Makkhi",
+          "image_url": "https://raag.fm/image/250/20390/Makkhi_Miss_Pooja,Ravinder_Grewal.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/20390/Makkhi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Juraban",
+          "album": "Juraban",
+          "image_url": "https://raag.fm/image/250/20993/Juraban_Miss_Pooja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/20993/Juraban - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Marjaneya",
+          "album": "Marjaneya",
+          "image_url": "https://raag.fm/image/250/24551/Six-EP-Sukh-Sandhu.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/24550/Marjaneya - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Date on Ford",
+          "album": "Date on Ford",
+          "image_url": "https://raag.fm/image/250/1520834/Date_on_Ford_Miss_Pooja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1520834/Date on Ford - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Ik No Di Cheez",
+          "album": "Ik No Di Cheez",
+          "image_url": "https://raag.fm/image/250/19411/Ik_No_Di_Cheez_Miss_Pooja.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/19411/Ik No Di Cheez - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 26,
+      "name": "Mankirt Aulakh",
+      "top_tracks": [
+        {
+          "title": "Badnam",
+          "album": "Badnam",
+          "image_url": "https://raag.fm/image/250/11526520/Badnam_(Original_Version)_Mankirt_Aulakh,Dj_Flow.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/11526520/Badnam (Original Version) - (Raag.Fm).mp3"
+        },
+        {
+          "title": "Jatt Da Blood",
+          "album": "Jatt Da Blood",
+          "image_url": "https://raag.fm/image/250/3233106/Jatt_Da_Blood_Mankirt_Aulakh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/3233106/Jatt Da Blood - (Raag.Fm).mp3"
+        },
+        {
+          "title": "Gangland",
+          "album": "Gangland",
+          "image_url": "https://raag.fm/image/250/10875748/Gangland_Mankirt_Aulakh,Deep_Kahlon.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10875748/Gangland - (Raag.Fm).mp3"
+        },
+        {
+          "title": "Kadar",
+          "album": "Kadar",
+          "image_url": "https://raag.fm/image/250/3087974/Kadar_Mankirt_Aulakh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/3087974/Kadar - (Raag.Fm).mp3"
+        },
+        {
+          "title": "Bhabhi 2",
+          "album": "Bhabhi 2",
+          "image_url": "https://images.hungama.com/c/1/715/0d7/105409175/105409175_300x300.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25417/Bhabhi 2 - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Daaru Band",
+          "album": "Daaru Band",
+          "image_url": "https://raag.fm/image/250/14180/Daru-Band-Mankirt-Aulakh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/14180/Daaru Band - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Zehar Jatt",
+          "album": "Zehar Jatt",
+          "image_url": "https://cover.djpunjab.is/54119/300x700/zehar-jatt-mankirt-aulakh.webp",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25195/Zehar Jatt - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Tere Bina",
+          "album": "Tere Bina",
+          "image_url": "https://raag.fm/image/250/1204486/Tere_Bina_Mankirt_Aulakh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1204486/Tere Bina - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Jail",
+          "album": "Jail",
+          "image_url": "https://raag.fm/image/250/11300357/Jail_Mankirt_Aulakh,Fateh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/11300357/Jail - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Koka",
+          "album": "Koka",
+          "image_url": "https://a10.gaanacdn.com/gn_img/albums/0wrb4kNWLg/rb4k8ArAWL/size_m.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25673/Koka - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Inaam",
+          "album": "Inaam",
+          "image_url": "https://raag.fm/image/250/25487/Inaam_Mankirt_Aulakh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25487/Inaam - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Gallan Mithiyan",
+          "album": "Gallan Mithiyan",
+          "image_url": "https://raag.fm/image/250/3233042/Gallan_Mithiyan_Mankirt_Aulakh,Himanshi_Khurana.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/3233042/Gallan Mithiyan - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Kuwari",
+          "album": "Kuwari",
+          "image_url": "https://raag.fm/image/250/2763142/Kuwari_Mankirt_Aulakh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/2763142/Kuwari - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Aksar",
+          "album": "Aksar",
+          "image_url": "https://a10.gaanacdn.com/gn_img/artists/DwPKOBbqVZ/wPKOwNoqKq/size_xl_1516622004.webp",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/24996/Aksar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Charda Siyaal",
+          "album": "Charda Siyaal",
+          "image_url": "https://raag.fm/image/250/1854308/Charda_Siyaal_Mankirt_Aulakh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1854308/Charda Siyaal - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Putt Jattan De",
+          "album": "Putt Jattan De",
+          "image_url": "https://c.saavncdn.com/084/Putt-Jattan-De-Punjabi-2024-20240205135848-500x500.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26321/Putt Jattan De - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Munda Guggu Gill Warga",
+          "album": "PTC Star Night",
+          "image_url": "https://raag.fm/image/250/1707565/PTC_Star_Night_Mankirt_Aulakh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1707565/Munda Guggu Gill Warga - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Brotherhood",
+          "album": "Brotherhood",
+          "image_url": "https://raag.fm/image/250/14556/Brotherhood-Mankirt-Aulakh,-Singga.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/14556/Brotherhood - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Boliyaan",
+          "album": "Boliyaan",
+          "image_url": "https://raag.fm/image/250/12748/Boliyan_Mankirt_Aulakh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/12748/Boliyan - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Khayal",
+          "album": "Khayal",
+          "image_url": "https://raag.fm/image/250/13186/Khayal_Mankirt_Aulakh.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/13186/Khayal - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 27,
+      "name": "Korala Maan",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Gal Mukdi",
+          "album": "Gal Mukdi",
+          "image_url": "https://raag.fm/image/250/26515/Gal_Mukdi_Korala_Maan,Gurlez_Akhtar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26515/Gal Mukdi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Dismiss 141 ft Desi Crew",
+          "album": "Dismiss 141 ft Desi Crew",
+          "image_url": "https://raag.fm/image/250/17752/Dismiss_141_ft_Desi_Crew_Korala_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/17752/Dismiss 141 ft Desi Crew - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Barood Dil",
+          "album": "Barood Dil",
+          "image_url": "https://raag.fm/image/250/17266/Barood_Dil_Korala_Maan,Gurlej_Akhter.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/17266/Barood Dil - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "News",
+          "album": "News",
+          "image_url": "https://raag.fm/image/250/26405/News_Malle_Ala_Guri,Korala_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26405/News - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "24 7 Parsann",
+          "album": "24 7 Parsann",
+          "image_url": "https://raag.fm/image/250/26188/24_7_Parsann_Korala_Maan,Gurlez_Akhtar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/26188/24 7 Parsann - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Pinda Ale",
+          "album": "Pinda Ale",
+          "image_url": "https://img.wynk.in/unsafe/200x200/filters:no_upscale():strip_exif():format(jpg)/http://s3.ap-south-1.amazonaws.com/wynk-music-cms/srch_pplmumbai/20231115200112853/5063413185998/1700241333964/resources/5063413185998.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25785/Pinda Ale - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Award",
+          "album": "Award",
+          "image_url": "https://raag.fm/image/250/25247/Award_Korala_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25247/Award - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Yaari Ch Gadaari",
+          "album": "Yaari Ch Gadaari",
+          "image_url": "https://raag.fm/image/250/25941/Yaari_Ch_Gadaari_Davinder_Sandhu,Gill_Raunta.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25941/Yaari Ch Gadaari - (Raag.Fm).mp3"
+        },
+  
+        {
+          "song_id": 10,
+          "title": "Badnam Ishq Ft Desi Crew",
+          "album": "Badnam Ishq Ft Desi Crew",
+          "image_url": "https://raag.fm/image/250/19266/Badnam_Ishq_Ft_Desi_Crew_Korala_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/19266/Badnam Ishq Ft Desi Crew - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Gal Gabru Di",
+          "album": "Gal Gabru Di",
+          "image_url": "https://raag.fm/image/250/24954/Gal_Gabru_Di_Korala_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/24954/Gal Gabru Di - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Rog Awalla",
+          "album": "Rog Awalla",
+          "image_url": "https://raag.fm/image/250/24515/Rog_Awalla_Korala_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/24515/Rog Awalla - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Lai Dass",
+          "album": "Lai Dass",
+          "image_url": "https://raag.fm/image/250/24183/Lai_Dass_Korala_Maan,Gurlez_Akhtar.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/24183/Lai Dass - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Ki Dassiye",
+          "album": "Ki Dassiye",
+          "image_url": "https://raag.fm/image/250/24358/Ki_Dassiye_Korala_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/24358/Ki Dassiye - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Hul Chul",
+          "album": "Hul Chul",
+          "image_url": "https://raag.fm/image/250/22502/Hul_Chul_Korala_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/22502/Hul Chul - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 28,
+      "name": "Sharry Maan",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "3 Peg",
+          "album": "3 Peg",
+          "image_url": "https://raag.fm/image/250/3216576/3_Peg_Sharry_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/3216576/3 Peg - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Hostel",
+          "album": "Hostel",
+          "image_url": "https://raag.fm/image/250/10948285/Hostel_Sharry_Mann.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10948285/Hostel - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Yaar Anmulle",
+          "album": "Yaar Anmulle",
+          "image_url": "https://raag.fm/image/250/1241752/Yaar_Anmulle_Sharry_Mann.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1241752/Yaar Anmule - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Cute Munda",
+          "album": "Cute Munda",
+          "image_url": "https://raag.fm/image/250/12694/Cute_Munda_Sharry_Mann.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/12694/Cute Munda - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Dad Tera",
+          "album": "Dad Tera",
+          "image_url": "https://raag.fm/image/250/20399/Dad_Tera_Sharry_Mann.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/20399/Dad Tera - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Kalla Chann",
+          "album": "Kalla Chann",
+          "image_url": "https://raag.fm/image/250/1195766/Kalla_Chann_Sharry_Mann.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1195766/Kalla Chann - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Munda Bhal di",
+          "album": "Munda Bhal di",
+          "image_url": "https://raag.fm/image/250/10162615/Munda_Bhal_Di_Sharry_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/10162615/Munda Bhal Di - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Carrom Board",
+          "album": "Carrom Board",
+          "image_url": "https://raag.fm/image/250/2510324/Carrom_Board_Sharry_Mann.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/2510324/Carrom Board - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Saade Aala",
+          "album": "Saade Aala",
+          "image_url": "https://raag.fm/image/250/10588102/Saade_Ala_Sharry_Mann.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/10588102/Saade Aala - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Motor",
+          "album": "Motor",
+          "image_url": "https://raag.fm/image/250/13958/Motor_Sharry_Mann.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/13958/Motor - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Bachpan Wala Ghar",
+          "album": "Bachpan Wala Ghar",
+          "image_url": "https://raag.fm/image/250/19403/Bachpan_Wala_Ghar_Sharry_Mann.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/19403/Bachpan Wala Ghar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Ishq Garaari",
+          "album": "Dream Angel Valentine Special",
+          "image_url": "https://raag.fm/image/250/1836615/Dream_Angel_Valentine_Special_Sharry_Maan.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1836615/Koi Ishq (Ishq Garaari) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "End Bande",
+          "album": "End Bande",
+          "image_url": "https://raag.fm/image/250/18678/End_Bande_Sharry_Mann,Mista_Baaz.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/18678/End Bande - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Response",
+          "album": "Response",
+          "image_url": "https://raag.fm/image/250/17490/Response_Sharry_Mann.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/17490/Response - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Wedding",
+          "album": "Wedding",
+          "image_url": "https://raag.fm/image/250/17356/Wedding_Sharry_Mann.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/17356/Wedding - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Zindagi",
+          "album": "Ardaas Karaan",
+          "image_url": "https://raag.fm/image/250/15539/Ardaas_Karaan_Movie_Sharry_Mann.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/15539/Zindagi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Vadda Bai",
+          "album": "Vadda Bai",
+          "image_url": "https://raag.fm/image/250/2374493/Vadda_Bai_Sharry_Mann.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/2374493/Vadda Bai - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "3 Peg Label Black",
+          "album": "T Series Mixtape",
+          "image_url": "https://raag.fm/image/250/12904/T_Series_Mixtape_Sharry_Mann,Gupz_Sehra.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/12904/3 Peg Label Black - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Yaara",
+          "album": "Rocky Mental",
+          "image_url": "https://raag.fm/image/250/11246368/Rocky_Mental_Sharry_Mann.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/11246368/Yaara - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 29,
+      "name": "Ranjit Bawa",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Meri Sardarniye",
+          "album": "Meri Sardarniye",
+          "image_url": "https://raag.fm/image/250/2663962/Meri_Sardarniye_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/2663962/Meri Sardarniye - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Sher Marna",
+          "album": "Sher Marna",
+          "image_url": "https://raag.fm/image/250/2217066/Sher_Marna_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/2217066/Sher Marna - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Chandigarh Returns",
+          "album": "Chandigarh Returns",
+          "image_url": "https://raag.fm/image/250/1980039/Chandigarh_Returns_(3_Lakh)_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1980039/Chandigarh Returns (3 Lakh) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Jatt Di Akal",
+          "album": "Proposal - Vol 1",
+          "image_url": "https://raag.fm/image/250/1146338/Proposal_-_Vol_1_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1146338/Jatt Di Akal - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Diljaniya",
+          "album": "Diljaniya",
+          "image_url": "https://raag.fm/image/250/13139/Diljaniya_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/13139/Diljaniya - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Jean 2",
+          "album": "Ik Tare Wala ",
+          "image_url": "https://raag.fm/image/250/14148/Ik_Tare_Wala_Album_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/14148/Jean 2 - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "End Yaariyaan",
+          "album": "High End Yaariyaan",
+          "image_url": "https://raag.fm/image/250/14555/High_End_Yaariyaan_Movie_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/14555/End Yaariyaan - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Knock Out",
+          "album": "Over The Moon EP",
+          "image_url": "https://raag.fm/image/250/26255/Over_The_Moon_EP_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/26255/Knock Out - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Mawa Thandiya Chava",
+          "album": "Mawa Thandiya Chava",
+          "image_url": "https://raag.fm/image/250/25979/Mawa_Thandiya_Chava_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25979/Mawa Thandiya Chava - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Jinde Meriye",
+          "album": "Jinde Meriye",
+          "image_url": "https://raag.fm/image/250/1198018/Jinde_Meriye_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1198018/Jinde Meriye - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Rona Pai Gaya",
+          "album": "Rona Pai Gaya",
+          "image_url": "https://raag.fm/image/250/17813/Rona-Pai-Gaya-Ranjit-Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/17813/Rona Pai Gaya - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Ja Ve Mundeya",
+          "album": "Ja Ve Mundeya",
+          "image_url": "https://raag.fm/image/250/3026781/Ja_Ve_Mundya_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/3026781/Ja Ve Mundya - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Lalkare",
+          "album": "Mitti Da Bawa 2",
+          "image_url": "https://raag.fm/image/250/25560/Mitti_Da_Bawa_2_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/25560/Lalkare - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Hook",
+          "album": "Mitti Da Bawa 2",
+          "image_url": "https://raag.fm/image/250/25560/Mitti_Da_Bawa_2_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/25560/Hook - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Tension Lainde Na",
+          "album": "Mitti Da Bawa 2",
+          "image_url": "https://raag.fm/image/250/25560/Mitti_Da_Bawa_2_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/25560/Tension Lainde Na - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Gaani",
+          "album": "Gaani",
+          "image_url": "https://raag.fm/image/250/25450/Gaani_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25450/Gaani - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Punjab Wargi",
+          "album": "Punjab Wargi",
+          "image_url": "https://raag.fm/image/250/25181/Punjab_Wargi_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25181/Punjab Wargi - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Dollar vs Roti",
+          "album": "Mitti Da Bawa",
+          "image_url": "https://raag.fm/image/250/1225929/Mitti_Da_Bawa_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1225929/Dollar Vs Roti - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Diggiyan Panjeban",
+          "album": "Mitti Da Bawa 2",
+          "image_url": "https://raag.fm/image/250/25560/Mitti_Da_Bawa_2_Ranjit_Bawa.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/25560/Diggiyan Panjeban - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Unmask",
+          "album": "Over The Moon EP",
+          "image_url": "https://raag.fm/image/250/26255/Over_The_Moon_EP_Ranjit_Bawa,Sunny_Malton.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/26255/Unmask - (Raag.Fm).mp3"
+        }
+      ]
+    },
+    {
+      "singer_id": 30,
+      "name": "Prabh Gill",
+      "top_tracks": [
+        {
+          "song_id": 1,
+          "title": "Tareyaan De Des",
+          "album": "Tareyaan De Des",
+          "image_url": "https://raag.fm/image/250/12848/Tareyaan_De_Des_Prabh_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/12848/Tareyaan De Des - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 2,
+          "title": "Mere Kol",
+          "album": "Mere Kol",
+          "image_url": "https://raag.fm/image/250/1491163/Mere_Kol_Prabh_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1491163/Mere Kol - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 3,
+          "title": "Teri Marzi Aa",
+          "album": "Teri Marzi Aa",
+          "image_url": "https://raag.fm/image/250/14754/Teri_Marzi_AA_Prabh_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/14754/Teri Marzi AA - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 4,
+          "title": "Rabb Khair Kare",
+          "album": "Rabb Khair Kare",
+          "image_url": "https://raag.fm/image/250/13804/Rabb-Khair-Kare-(Daana-Paani)-Prabh-Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/13804/Rabb Khair Kare (Daana Paani) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 5,
+          "title": "Ik Supna",
+          "album": "Ik Supna",
+          "image_url": "https://raag.fm/image/250/17258/Ik_Supna_Prabh_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/17258/Ik Supna - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 6,
+          "title": "Teriyaan Deedaan",
+          "album": "Teriyaan Deedaan",
+          "image_url": "https://raag.fm/image/250/14758/Teriyaan_Deedaan_(Dil_Diyan_Gallan)_Prabh_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/14758/Teriyaan Deedaan (Dil Diyan Gallan) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 7,
+          "title": "Bacha",
+          "album": "Bacha",
+          "image_url": "https://raag.fm/image/250/2963563/Bacha_Prabh_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/2963563/Bacha - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 8,
+          "title": "Shukarguzar",
+          "album": "Shukarguzar",
+          "image_url": "https://raag.fm/image/250/22519/Shukarguzar_Prabh_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/22519/Shukarguzar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 9,
+          "title": "Mera Dil",
+          "album": "Mera Dil",
+          "image_url": "https://raag.fm/image/250/10475782/Mera_Dil_Prabh_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10475782/Mera Dil - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 10,
+          "title": "Haan Karde",
+          "album": "Haan Karde",
+          "image_url": "https://raag.fm/image/250/10223500/Haan_Karde_Prabh_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/10223500/Haan Karde - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 11,
+          "title": "Desi Pyaar",
+          "album": "Desi Pyaar",
+          "image_url": "https://raag.fm/image/250/1244461/Desi-Pyaar-Prabh-Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/1244461/Desi Pyaar - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 12,
+          "title": "Tere Bina Ft. Amrita Rana",
+          "album": "Endless",
+          "image_url": "https://raag.fm/image/250/1184792/Endless_Prabh_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi/1184792/Tere Bina Ft. Amrita Rana - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 13,
+          "title": "Zikar Tera",
+          "album": "Zikar Tera",
+          "image_url": "https://raag.fm/image/250/25052/Zikar_Tera_Prabh_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/25052/Zikar Tera - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 14,
+          "title": "Waheguru",
+          "album": "Waheguru",
+          "image_url": "https://raag.fm/image/250/23890/Waheguru_Prabh_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/23890/Waheguru - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 15,
+          "title": "Jionda Reh",
+          "album": "Jionda Reh",
+          "image_url": "https://raag.fm/image/250/23585/Jionda_Reh_Prabh_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/23585/Jionda Reh - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 16,
+          "title": "Heer Wargiye (Mahi Mera Nikka Jeha)",
+          "album": "Heer Wargiye (Mahi Mera Nikka Jeha)",
+          "image_url": "https://raag.fm/image/250/23063/Maaye_Ni_Prabh_Gill.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/23122/Heer Wargiye (Mahi Mera Nikka Jeha) - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 17,
+          "title": "Mehak Teri",
+          "album": "Mehak Teri",
+          "image_url": "https://raag.fm/image/250/23327/Mehak_Teri_Prabh_Gill,Neha_Thakur.jpg",
+          "song_url": "https://raag.fm/files/mp3/128/Punjabi-Singles/23327/Mehak Teri - (Raag.Fm).mp3"
+        },
+        {
+          "song_id": 18,
+          "title": "Waasta",
+          "album": "Waasta",
+          "image_url": "https://cover.djpunjab.is/49907/300x700/waasta-prabh-gill.webp",
+          "song_url": "https://s320.djpunjab.is/data/48/49907/297490/Waasta%20-%20Prabh%20Gill.mp3"
+        },
+        {
+          "song_id": 19,
+          "title": "Bharam",
+          "album": "Vadda Kalakaar",
+          "image_url": "https://cover.djpunjab.is/44305/300x700/vadda-kalakaar-alfaaz.webp",
+          "song_url": "https://p320.djpunjab.is/data/48/44305/290213/Bharam%20-%20Prabh%20Gill.mp3"
+        },
+        {
+          "song_id": 20,
+          "title": "Mainu Mangdi",
+          "album": "Mainu Mangdi",
+          "image_url": "https://cover.djpunjab.is/42604/300x700/mainu-mangdi-prabh-gill.webp",
+          "song_url": "https://s320.djpunjab.is/data/48/42604/287912/Mainu%20Mangdi%20-%20Prabh%20Gill.mp3"
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,369 @@
+[
+  {
+    "id": 1,
+    "name": "Diljit Dosanjh",
+    "genres": [
+      "Punjabi",
+      "Bhangra",
+      "Hindi"
+    ],
+    "popularity": 85,
+    "image_url": "https://st1.bollywoodlife.com/wp-content/uploads/2019/06/diljit-dosanjh.jpg?impolicy=Medium_Widthonly&w=412&h=290",
+    
+    "description": "Diljit Dosanjh is a versatile Indian singer and actor known for his work in Punjabi and Hindi cinema. With his soulful voice and charismatic persona, he has won the hearts of millions. He has delivered numerous hits like 'Do You Know', 'Laembadgini', and 'Proper Patola', showcasing his talent across various genres."
+  },
+  {
+    "id": 2,
+    "name": "Guru Randhawa",
+    "genres": [
+      "Punjabi",
+      "Bhangra"
+    ],
+    "popularity": 80,
+    "image_url": "https://www.celebnest.com/uploads/photos/2/14436101.jpg",
+    
+    
+    "description": "Guru Randhawa is an Indian singer, songwriter, and music composer known for his Punjabi and Hindi songs. He gained popularity with tracks like 'Lahore' and 'High Rated Gabru', which topped the charts. His blend of Punjabi folk and contemporary beats has won him a large fan following."
+  },
+  {
+    "id": 3,
+    "name": "Ammy Virk",
+    "genres": [
+      "Punjabi",
+      "Bhangra"
+    ],
+    "popularity": 75,
+    "image_url": "https://tse2.mm.bing.net/th?id=OIP.K1mSnDqk1abwHCA544koeAHaEK&pid=Api&P=0&h=180",
+ 
+    "description": "Ammy Virk is a Punjabi singer and actor known for his soulful voice and versatile acting skills. He gained popularity with songs like 'Qismat' and 'Wang Da Naap', which became instant hits among the audience. Apart from singing, he has also ventured into acting and has appeared in several Punjabi films."
+  },
+  {
+    "id": 4,
+    "name": "Arijit Singh",
+    "genres": [
+      "Hindi",
+      "Playback"
+    ],
+    "popularity": 97,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmlGXMpPYA4itZ75Ee495kgyaLeLJXoMcmPUO1fXhuDEQt_0yB",
+    
+    "description": "Arijit Singh is an Indian playback singer known for his soulful renditions and versatility. He gained widespread fame with his breakout song 'Tum Hi Ho' from the film 'Aashiqui 2'. Singh has since delivered numerous chart-topping hits across various genres, establishing himself as one of the leading playback singers in Bollywood."
+  },
+  {
+    "id": 5,
+    "name": "A.R. Rahman",
+    "genres": [
+      "Hindi",
+      "Soundtrack"
+    ],
+    "popularity": 98,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekXEnpbEPl1sXMOpzHHjQV1PXnmZvuSKn1mzbmzem6_jO7NGu",
+    
+    "description": "A.R. Rahman is an Indian composer, singer, and music producer who has worked extensively in the Indian and international film industries. He is widely regarded as one of the greatest and most influential musicians of all time, with numerous awards and honors to his name."
+  },
+  {
+    "id": 6,
+    "name": "Atif Aslam",
+    "genres": [
+      "Urdu",
+      "Playback"
+    ],
+    "popularity": 92,
+    "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202401/65b8b49231b3f-pak-singer-atif-aslam-303424947-16x9.jpg?size=948:533",
+   
+    "description": "Atif Aslam is a Pakistani playback singer and actor. He is known for his soulful voice and heartfelt renditions. Aslam gained popularity with his breakout single 'Aadat' and has since become one of the most prominent figures in the Pakistani music industry. He has also ventured into acting and has appeared in several films."
+  },
+  {
+    "id": 7,
+    "name": "Neha Kakkar",
+    "genres": [
+      "Hindi",
+      "Punjabi",
+      "Pop"
+    ],
+    "popularity": 88,
+    "image_url": "https://yespunjab.com/wp-content/uploads/2019/12/Neha-Kakkar.jpg",
+
+    "description": "Neha Kakkar is an Indian playback singer known for her peppy and energetic performances. She gained fame with her appearances on reality television shows and has since become one of the most sought-after playback singers in Bollywood. Kakkar is known for her hit songs in various languages, including Hindi and Punjabi."
+  },
+  {
+    "id": 8,
+    "name": "Gurdas Maan",
+    "genres": [
+      "Punjabi",
+      "Folk"
+    ],
+    "popularity": 85,
+    "image_url": "https://i.scdn.co/image/ab67616100005174d8e67ed1e6d406aba18cf2a3",
+   
+    "description": "Gurdas Maan is an Indian singer, songwriter, and actor known for his contributions to Punjabi music and cinema. He is considered one of the most prominent figures in the Punjabi music industry and has released numerous albums and singles over the course of his career."
+  },
+  {
+    "id": 9,
+    "name": "Shreya Ghoshal",
+    "genres": [
+      "Hindi",
+      "Bengali",
+      "Playback"
+    ],
+    "popularity": 90,
+    "image_url": "https://www.shreyaghoshal.com/assest/images/shreya-image.png",
+    
+    "description": "Shreya Ghoshal is an Indian playback singer known for her melodious voice and versatility. She gained fame after winning the singing reality show 'Sa Re Ga Ma Pa' and has since become one of the most celebrated playback singers in Bollywood. Ghoshal has won numerous awards for her contributions to Indian music."
+  },
+  {
+    "id": 10,
+    "name": "Amrinder Gill",
+    "genres": [
+      "Punjabi",
+      "Bhangra"
+    ],
+    "popularity": 70,
+    "image_url": "https://tse3.mm.bing.net/th?id=OIP.OQGky4GpExsOi5weY7wQgQHaFB&pid=Api&P=0&h=180",
+ 
+    "description": "Amrinder Gill is a Punjabi singer, songwriter, and actor known for his melodious voice and heartfelt lyrics. He rose to fame with his debut album 'Judaa', which featured hit tracks like 'Ki Samjhaiye' and 'Dildarian'. His soulful singing style has won him acclaim from audiences worldwide."
+  },
+  {
+    "id": 11,
+    "name": "Jass Manak",
+    "genres": [
+      "Punjabi",
+      "Bhangra"
+    ],
+    "popularity": 80,
+    "image_url": "https://wallpapercave.com/wp/wp4013998.jpg",
+
+    "description": "Jass Manak is a Punjabi singer-songwriter known for his romantic and peppy tracks. He gained immense popularity with his debut song 'Prada', which topped the charts. With his unique style and catchy tunes, he has become a favorite among the youth."
+  },
+  {
+    "id": 12,
+    "name": "Babbu Maan",
+    "genres": [
+      "Punjabi",
+      "Bhangra"
+    ],
+    "popularity": 75,
+    "image_url": "https://1.bp.blogspot.com/-qP16-EDKyRU/XpQBqk4NnCI/AAAAAAAADsE/cVPs1Ldm7jk_JP7YDMrmXtlI3v33rZ-QwCLcBGAsYHQ/s1600/Babbu-Maan%2B%252820%2529.jpg",
+   
+    "description": "Babbu Maan is a renowned Punjabi singer, songwriter, and actor known for his unique singing style and socially conscious lyrics. With his soulful voice, he has delivered numerous hit songs like 'Mitran Di Chatri' and 'Saaun Di Jhadi'. Babbu Maan's music often reflects on the cultural and social issues faced by society."
+  },
+  {
+    "id": 13,
+    "name": "Sippy Gill",
+    "genres": [
+      "Punjabi",
+      "Bhangra"
+    ],
+    "popularity": 60,
+    "image_url": "https://tse4.mm.bing.net/th?id=OIP.JZD6OFpyXmQgBR8GKo-McQHaEK&pid=Api&P=0&h=180",
+   
+    "description": "Sippy Gill is a Punjabi singer and actor known for his melodious voice and meaningful lyrics. He has gained popularity with songs like 'Shiftaan' and 'Gulabi Pagg'. Sippy Gill's music often revolves around themes of love, friendship, and Punjab's culture."
+  },
+  {
+    "id": 14,
+    "name": "Satinder Sartaaj",
+    "genres": [
+      "Punjabi",
+      "Sufi"
+    ],
+    "popularity": 70,
+    "image_url": "https://tse1.mm.bing.net/th?id=OIP.PjxX9qfw3TCqtTk7JWiRrAHaEo&pid=Api&P=0&h=180",
+   
+    "description": "Satinder Sartaaj is a renowned Punjabi singer, songwriter, and poet known for his soulful Sufi music. His mesmerizing voice and poetic lyrics have won the hearts of millions. Sartaaj's songs often carry deep philosophical meanings and are accompanied by beautiful melodies."
+  },
+  {
+    "id": 15,
+    "name": "Gippy Grewal",
+    "genres": [
+      "Punjabi",
+      "Bhangra"
+    ],
+    "popularity": 68,
+    "image_url": "https://wallpapercave.com/wp/wp6993063.jpg",
+ 
+    "description": "Gippy Grewal is a Punjabi singer, actor, and film director. He is known for his versatile singing style and has delivered numerous chart-topping hits in the Punjabi music industry."
+  },
+  {
+    "id": 16,
+    "name": "Nusrat Fateh Ali Khan",
+    "genres": [
+      "Pakistani",
+      "Qawwali",
+      "Sufi"
+    ],
+    "popularity": 85,
+    "image_url": "https://tse2.mm.bing.net/th?id=OIP.g8JXCWZaGfEfCvB0ISOsvQHaFj&pid=Api&P=0&h=180",
+  
+    "description": "Nusrat Fateh Ali Khan was a Pakistani vocalist and musician, primarily a singer of Qawwali, a form of Sufi Islamic devotional music. He is considered one of the greatest voices ever recorded and was dubbed the 'King of Qawwali'. Khan's music had a profound impact on the Qawwali tradition and earned him worldwide acclaim."
+  },
+  {
+    "id": 17,
+    "name": "Rahat Fateh Ali Khan",
+    "genres": [
+      "Pakistani",
+      "Qawwali",
+      "Sufi",
+      "Playback"
+    ],
+    "popularity": 80,
+    "image_url": "https://tse2.explicit.bing.net/th?id=OIP.ZXO5fBZVDGR79_SoXImv7QHaEK&pid=Api&P=0&h=180",
+  
+    "description": "Rahat Fateh Ali Khan is a Pakistani singer primarily of Qawwali, a devotional music of the Muslim Sufis. He is the nephew of Nusrat Fateh Ali Khan and is considered one of the greatest voices ever recorded. Rahat's soulful renditions and versatility have earned him international acclaim and numerous awards."
+  },
+  {
+    "id": 18,
+    "name": "Hans Raj Hans",
+    "genres": [
+      "Punjabi",
+      "Sufi"
+    ],
+    "popularity": 70,
+    "image_url": "https://www.rozanaspokesman.in/media/prev/97b146caf8559ac31ba6f1939a02a70367d69942-rs-img-preview.jpg",
+  
+    "description": "Hans Raj Hans is an Indian singer turned politician. He is known for his contributions to Punjabi folk and Sufi music. With his soulful voice and dynamic stage presence, he has captivated audiences worldwide. Hans has also ventured into politics and served as a Member of Parliament."
+  },
+  {
+    "id": 19,
+    "name": "Jazzy B",
+    "genres": [
+      "Punjabi",
+      "Bhangra",
+      "Pop"
+    ],
+    "popularity": 72,
+    "image_url": "https://www.desicomments.com/dc3/08/294998/294998.jpg",
+   
+    "description": "Jazzy B is a Punjabi singer and songwriter known for his contributions to Bhangra music. He is often referred to as the 'Crown Prince of Bhangra'. With his energetic performances and catchy tunes, Jazzy B has become one of the most prominent figures in the Punjabi music industry."
+  },
+  {
+    "id": 20,
+    "name": "Kailash Kher",
+    "genres": [
+      "Indian",
+      "Sufi",
+      "Folk"
+    ],
+    "popularity": 75,
+    "image_url": "https://images.mid-day.com/images/images/2022/jan/kailash%20kherresized_d.jpg",
+   
+    "description": "Kailash Kher is an Indian playback singer and music composer known for his soulful voice and unique singing style. He gained prominence with his album 'Kailasa' and has since delivered numerous hits in Bollywood. Kher's Sufi-inspired songs have earned him a dedicated fan base."
+  },
+  {
+    "id": 21,
+    "name": "Hardy Sandhu",
+    "genres": [
+      "Punjabi",
+      "Pop"
+    ],
+    "popularity": 68,
+    "image_url": "https://tse4.mm.bing.net/th?id=OIP.MZCNnGRlnaExvMfs7a91RgHaEK&pid=Api&P=0&h=180",
+ 
+    "description": "Hardy Sandhu is an Indian singer and actor known for his work in Punjabi language music and films. He gained fame with his debut single 'Tequilla Shot' and has since become one of the leading figures in the Punjabi music industry. Sandhu's energetic performances and catchy tunes have earned him a significant fan following."
+  },
+  {
+    "id": 22,
+    "name": "Badshah",
+    "genres": [
+      "Indian",
+      "Pop",
+      "Rap"
+    ],
+    "popularity": 80,
+    "image_url": "https://tse3.mm.bing.net/th?id=OIP.2abRBgfj5fTn4PrFHzRGlAHaFj&pid=Api&P=0&h=180",
+   
+    "description": "Badshah is an Indian rapper and singer known for his work in Bollywood and independent music. He gained fame with his debut single 'DJ Waley Babu' and has since become one of the most prominent figures in the Indian music industry. Badshah's catchy tunes and dynamic rapping style have earned him widespread acclaim."
+  },
+  {
+    "id": 23,
+    "name": "B Praak",
+    "genres": [
+      "Punjabi",
+      "Bollywood"
+    ],
+    "popularity": 75,
+    "image_url": "https://tse2.mm.bing.net/th?id=OIP.Y5-Xi5CCS1Ylylm11T2DbgHaE8&pid=Api&P=0&h=180",
+   
+    "description": "B Praak is a Punjabi music composer and singer known for his soulful voice and heartfelt compositions. He gained widespread acclaim with songs like 'Mann Bharrya' and 'Qismat', which struck a chord with audiences. Praak's ability to evoke emotions through his music has made him a prominent figure in the Punjabi music industry."
+  },
+  {
+    "id": 24,
+    "name": "Ninja",
+    "genres": [
+      "Punjabi"
+    ],
+    "popularity": 60,
+    "image_url": "https://tse2.mm.bing.net/th?id=OIP.RvD_Ja-dD9qIfrf1xJUwWgHaHa&pid=Api&P=0&h=180",
+   
+    "description": "Ninja is a Punjabi singer known for his melodious voice and romantic tracks. He rose to fame with songs like 'Aadat' and 'Roi Na', which became instant hits among the audience. Ninja's soulful singing style and heartfelt lyrics have earned him a dedicated fan base in the Punjabi music industry."
+  },
+  {
+    "id": 25,
+    "name": "Miss Pooja",
+    "genres": [
+      "Punjabi"
+    ],
+    "popularity": 65,
+    "image_url": "https://tse4.mm.bing.net/th?id=OIP.WavpwrmFJ16NruCVq4MIKwHaEo&pid=Api&P=0&h=180",
+  
+    "description": "Miss Pooja, often referred to as the 'Queen of Duets' in the Punjabi music industry, is known for her vibrant voice and energetic performances. With numerous hit songs like 'Sohnea' and 'Jeeju' to her credit, she has established herself as one of the leading female singers in Punjabi music. Miss Pooja's lively stage presence and versatile singing style have won the hearts of audiences worldwide."
+  },
+  {
+    "id": 26,
+    "name": "Mankirt Aulakh",
+    "genres": [
+      "Punjabi",
+      "Bhangra"
+    ],
+    "popularity": 75,
+    "image_url": "https://tse1.mm.bing.net/th?id=OIP.JKKzedpwHR1NEhAexOjBFQHaHa&pid=Api&P=0&h=180",
+    
+    "description": "Mankirt Aulakh is a Punjabi singer known for his energetic Bhangra tracks. He gained fame with hits like 'Badnam' and 'Jail', which became instant favorites among the audience. Aulakh's lively performances and catchy songs have earned him a significant fan following."
+  },
+  {
+    "id": 27,
+    "name": "Korala Maan",
+    "genres": [
+      "Punjabi"
+    ],
+    "popularity": 70,
+    "image_url": "https://www.quirkybyte.com/wp-content/uploads/2020/11/17-15.jpg",
+   
+    "description": "Korala Maan is a Punjabi singer known for his soulful and heartfelt songs. His tracks like 'Libaas' and 'Kalla Changa' have garnered millions of views on various platforms. Maan's lyrics often reflect on love, life, and relationships, resonating deeply with his audience."
+  },
+  {
+    "id": 28,
+    "name": "Sharry Maan",
+    "genres": [
+      "Punjabi",
+      "Bhangra"
+    ],
+    "popularity": 75,
+    "image_url": "https://tse4.mm.bing.net/th?id=OIP.onqOgp_SKjEL2LCDp2GREwHaEK&pid=Api&P=0&h=180",
+    
+    "description": "Sharry Maan is a Punjabi singer and actor known for his catchy and energetic songs. With hits like 'Yaar Anmulle' and '3 Peg', he has become a household name in the Punjabi music industry. Maan's music often combines traditional Punjabi folk with modern beats, creating a unique and vibrant sound."
+  },
+  {
+    "id": 29,
+    "name": "Ranjit Bawa",
+    "genres": [
+      "Punjabi",
+      "Bhangra"
+    ],
+    "popularity": 70,
+    "image_url": "https://wallpapercave.com/wp/wp8896320.jpg",
+  
+    "description": "Ranjit Bawa is a Punjabi singer known for his soulful voice and meaningful lyrics. He rose to fame with tracks like 'Jean' and 'Meri Sardarniye', which became instant hits among Punjabi music lovers. Bawa's songs often depict the rich cultural heritage of Punjab."
+  },
+  {
+    "id": 30,
+    "name": "Prabh Gill",
+    "genres": [
+      "Punjabi",
+      "Romantic"
+    ],
+    "popularity": 65,
+    "image_url": "https://e1.pxfuel.com/desktop-wallpaper/143/851/desktop-wallpaper-singer-prabh-gill-backgrounds-52004-prabha-gill.jpg",
+   
+    "description": "Prabh Gill is a Punjabi singer known for his romantic and soulful tracks. With hits like 'Mere Kol' and 'Tareyaan De Des', he has captured the hearts of Punjabi music enthusiasts. Gill's soothing voice and heartfelt lyrics have made him a favorite among listeners."
+  }
+]

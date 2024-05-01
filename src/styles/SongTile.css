@@ -1,0 +1,69 @@
+.Song-tile-box{
+    height: 64px;
+    background-color: #292929;
+    padding: 8px 16px;
+    display: flex;
+    gap: 8px;
+    margin: 0.5rem 0 ;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-right: 2rem;
+    cursor: pointer;
+    /* width: 100%; */
+}
+
+.Song-tile-box *{
+    margin: 0 1rem;
+}
+.Song-tile-box:hover{
+    background-color: #3c3c3c;
+}
+
+.Song-tile-img {
+    height: 100%; 
+    /* width: 100%;  */
+    max-width: 100%; 
+    aspect-ratio: 1 / 1; 
+    border-radius: 0.3rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Song-tile-img:hover{
+
+}
+
+.Song-tile-content{
+    height: 100%; /* Ensures the height of the box fills its parent container */
+    width: 100%;
+    /* background-color: pink;  */
+    background-color: transparent;
+}
+.Song-tile-content-title{
+    height: 60%;
+    /* background-color: aquamarine; */
+}
+.Song-tile-content-desc{
+    height: 40%;
+    /* background-color: blue; */
+}
+.Song-tile-content-text{
+    display: flex;
+    align-items: center;
+    
+}
+
+.song-tile-play-btn button:hover {
+    color: red; /* Example hover color */
+  }
+  
+
+.Song-tile-box.light-theme{
+    
+    background-color: white;
+    color: black;
+
+}  
+.Song-tile-box:hover{
+    background-color: #E7E9EB;
+}
